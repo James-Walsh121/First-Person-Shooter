@@ -5858,3 +5858,988 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.08.09-15.22.07:350][986]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.08.09-15.22.07:355][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
 [2021.08.09-15.22.07:712][987]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2021.08.09-15.23.49:668][661]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.09-15.23.49:695][661]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.09-15.23.54:019][920]LogContentBrowser: Attempting asset rename: NewFolder -> Weapons
+[2021.08.09-15.23.54:022][920]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.09-15.24.08:440][540]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.09-15.24.08:470][540]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.09-15.24.15:600][967]LogContentBrowser: Attempting asset rename: NewFolder -> AK47
+[2021.08.09-15.24.15:600][967]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.09-15.24.38:159][422]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Weapon\AK.obj)
+[2021.08.09-15.24.38:180][422]LogFbx: Loading FBX Scene from C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Weapon\AK.obj
+[2021.08.09-15.24.38:340][422]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.09-15.24.56:839][422]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.09-15.24.56:938][422]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AKMat.AKMat needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.09-15.24.56:950][422]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2021.08.09-15.24.56:983][422]LogMaterial: Display: Missing cached shader map for material AKMat, compiling. 
+[2021.08.09-15.24.57:009][422]LogFbx: Triangulating skeletal mesh AK
+[2021.08.09-15.24.57:636][422]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.09-15.24.57:636][422]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.09-15.24.57:636][422]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.09-15.24.57:636][422]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.09-15.24.57:646][422]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2021.08.09-15.24.58:305][422]LogSkeletalMesh: Section 0: Material=0, 8892 triangles
+[2021.08.09-15.24.58:313][422]LogSkeletalMesh: Building Skeletal Mesh AK...
+[2021.08.09-15.24.58:811][422]LogSkeletalMesh: Section 0: Material=0, 8892 triangles
+[2021.08.09-15.24.58:901][422]LogSkeletalMesh: Built Skeletal Mesh [0.59s] /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK.AK
+[2021.08.09-15.24.58:940][422]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.24.58:940][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.24.59:004][422]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2021.08.09-15.25.05:354][585]LogSlate: Window 'Message Log' being destroyed
+[2021.08.09-15.25.05:368][585]LogSlate: Window 'Message Log' being destroyed
+[2021.08.09-15.25.19:704][902]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Weapon\AK_normal.jpg)
+[2021.08.09-15.25.19:954][902]LogTexture: Display: Building textures: AK_normal (BC5, 2048X2048)
+[2021.08.09-15.25.20:359][902]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Weapon\AK_specular.jpg)
+[2021.08.09-15.25.20:402][902]LogTexture: Display: Building textures: AK_specular (AutoDXT, 2048X2048)
+[2021.08.09-15.25.20:723][902]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Weapon\AK_diffuse.jpg)
+[2021.08.09-15.25.20:833][902]LogTexture: Display: Building textures: AK_diffuse (AutoDXT, 2048X2048)
+[2021.08.09-15.25.55:709][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.08.09-15.25.56:795][ 92]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.09-15.25.57:116][ 92]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AKMat.AKMat
+[2021.08.09-15.25.58:194][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2021.08.09-15.26.06:516][148]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.08.09-15.26.06:554][148]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.08.09-15.26.14:181][582]LogContentBrowser: Attempting asset rename: NewMaterial -> AK47_MATT
+[2021.08.09-15.26.14:182][582]LogContentBrowser: End creating deferred item NewMaterial
+[2021.08.09-15.26.16:364][680]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK47_MATT.AK47_MATT
+[2021.08.09-15.26.16:373][680]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.26.16:767][680]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.26.16:789][680]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.09-15.26.16:789][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.26.16:789][680]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.26.16:789][680]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.09-15.26.19:526][744]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.09-15.26.20:219][760]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.09-15.26.20:604][770]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.09-15.26.20:758][774]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.09-15.26.22:931][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.09-15.26.23:953][846]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.09-15.26.23:953][846]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.09-15.26.23:953][846]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.09-15.26.23:953][846]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.09-15.26.27:042][967]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.26.27:054][967]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.09-15.26.27:138][968]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.09-15.26.27:138][968]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.26.27:138][968]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.26.27:138][968]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.09-15.26.28:289][999]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.09-15.26.28:998][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.08.09-15.26.29:192][ 23]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.09-15.26.29:223][ 24]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.09-15.26.30:238][ 51]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.09-15.26.31:438][ 84]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.09-15.26.31:438][ 84]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.09-15.26.31:438][ 84]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.09-15.26.31:438][ 84]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.09-15.26.48:265][149]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.26.48:292][149]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.09-15.26.48:292][149]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.26.48:292][149]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.26.48:292][149]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.09-15.26.48:298][149]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.09-15.26.48:335][149]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.26.50:061][190]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.09-15.26.50:658][203]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.09-15.26.51:725][231]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.09-15.26.51:969][237]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.09-15.26.52:491][250]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.09-15.26.54:313][292]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.26.54:603][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2021.08.09-15.26.54:982][307]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.09-15.26.55:964][323]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.08.09-15.26.56:172][327]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.09-15.26.56:346][331]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.08.09-15.26.56:882][343]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.09-15.26.57:241][351]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.08.09-15.26.58:654][388]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.08.09-15.26.58:654][388]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.08.09-15.26.58:654][388]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.08.09-15.26.58:654][388]MaterialEditorStats: Texture samplers: 2/16
+[2021.08.09-15.26.58:703][390]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.26.58:719][390]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.09-15.26.58:719][390]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.26.58:719][390]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.26.58:719][390]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.09-15.26.58:724][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.08.09-15.27.00:455][434]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.09-15.27.01:158][445]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.27.01:459][450]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.09-15.27.01:612][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.09-15.27.02:569][470]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.09-15.27.02:841][475]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.09-15.27.03:440][486]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.09-15.27.03:527][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.09-15.27.04:306][497]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.09-15.27.04:426][499]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.09-15.27.04:426][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.09-15.27.04:426][499]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.09-15.27.04:427][499]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.09-15.27.04:427][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.09-15.27.04:427][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.09-15.27.59:263][ 16]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.27.59:274][ 16]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.09-15.27.59:332][ 17]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.08.09-15.27.59:332][ 17]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.09-15.27.59:332][ 17]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.08.09-15.27.59:332][ 17]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.08.09-15.28.01:511][ 76]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.09-15.28.01:929][ 87]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.28.02:472][100]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.09-15.28.02:560][102]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.09-15.28.03:317][120]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.09-15.28.03:820][132]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.09-15.28.04:304][143]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.09-15.28.04:383][145]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.09-15.28.04:498][148]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.09-15.28.04:576][150]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.08.09-15.28.04:576][150]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.08.09-15.28.04:576][150]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.09-15.28.04:576][150]MaterialEditorStats: Texture samplers: 3/16
+[2021.08.09-15.28.04:576][150]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.08.09-15.28.04:576][150]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.09-15.28.12:436][420]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.28.12:452][420]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.09-15.28.12:452][420]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.28.12:452][420]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.28.12:452][420]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.09-15.28.12:455][420]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.08.09-15.28.13:844][454]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.09-15.28.14:330][468]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.28.14:509][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.09-15.28.14:578][475]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.09-15.28.15:556][501]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.09-15.28.15:889][509]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.09-15.28.16:554][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.09-15.28.16:595][527]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.08.09-15.28.16:822][533]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.09-15.28.16:894][535]MaterialEditorStats: Base pass shader: 121 instructions
+[2021.08.09-15.28.16:894][535]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.08.09-15.28.16:894][535]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.09-15.28.16:894][535]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.09-15.28.16:894][535]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.09-15.28.16:894][535]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.09-15.28.31:787][ 93]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.28.31:796][ 93]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.09-15.28.31:880][ 94]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.08.09-15.28.31:880][ 94]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.08.09-15.28.31:880][ 94]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.08.09-15.28.31:880][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.08.09-15.28.32:927][121]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.09-15.28.33:495][136]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.28.33:774][143]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.08.09-15.28.33:919][147]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.09-15.28.34:840][171]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.09-15.28.35:223][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2021.08.09-15.28.36:085][194]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.09-15.28.36:243][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.09-15.28.36:313][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.08.09-15.28.36:379][198]MaterialEditorStats: Base pass shader: 121 instructions
+[2021.08.09-15.28.36:379][198]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2021.08.09-15.28.36:379][198]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.09-15.28.36:379][198]MaterialEditorStats: Texture samplers: 4/16
+[2021.08.09-15.28.36:379][198]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.08.09-15.28.36:379][198]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.09-15.28.37:533][224]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.28.37:549][224]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.08.09-15.28.37:557][224]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.09-15.28.37:572][224]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.28.37:758][228]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.08.09-15.28.37:947][232]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.09-15.28.38:162][238]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2021.08.09-15.28.39:681][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.09-15.28.40:164][290]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.08.09-15.28.40:304][293]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.09-15.28.40:730][305]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.28.41:648][329]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2021.08.09-15.28.42:498][351]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.28.42:522][351]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.08.09-15.28.42:731][356]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.08.09-15.28.42:773][357]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.08.09-15.28.43:430][375]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2021.08.09-15.28.45:203][403]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.08.09-15.28.45:959][415]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2021.08.09-15.28.45:959][415]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.08.09-15.28.46:344][422]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.28.47:391][438]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.08.09-15.28.47:530][440]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.09-15.28.48:803][458]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.08.09-15.28.49:430][464]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.09-15.28.49:670][468]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.09-15.28.50:193][477]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.09-15.28.50:262][478]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.08.09-15.28.50:263][478]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2021.08.09-15.28.50:263][478]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.09-15.28.50:263][478]MaterialEditorStats: Texture samplers: 5/16
+[2021.08.09-15.28.50:263][478]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.08.09-15.28.50:263][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.09-15.28.57:275][521]LogMaterialEditor: Applying material AK47_MATT
+[2021.08.09-15.29.02:085][521]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.29.02:146][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2021.08.09-15.29.02:147][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.29.02:147][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.09-15.29.02:147][521]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.08.09-15.29.02:160][521]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.29.02:249][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2021.08.09-15.29.02:268][521]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.09-15.29.02:838][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2021.08.09-15.29.03:399][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.08.09-15.29.03:399][521]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.08.09-15.29.03:399][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.08.09-15.29.03:960][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2021.08.09-15.29.03:960][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2021.08.09-15.29.03:960][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2021.08.09-15.29.04:282][521]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.08.09-15.29.04:282][521]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.29.04:282][521]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2021.08.09-15.29.04:282][521]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.08.09-15.29.04:286][521]TextureStreamingBuild: Display: Compiling optional shaders took 2.030 seconds.
+[2021.08.09-15.29.04:373][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.09-15.29.05:789][550]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.08.09-15.29.07:053][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.08.09-15.29.10:813][667]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.08.09-15.29.10:813][667]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2021.08.09-15.29.10:813][667]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.09-15.29.10:813][667]MaterialEditorStats: Texture samplers: 6/16
+[2021.08.09-15.29.10:813][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.08.09-15.29.10:813][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.09-15.29.14:214][677]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK.AK
+[2021.08.09-15.29.14:230][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.29.57:712][968]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK47_MATT.AK47_MATT needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.09-15.29.57:716][968]LogMaterial: Display: Material /Engine/Transient.AK47_MATT needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.09-15.29.57:718][968]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.29.57:732][968]LogMaterial: Display: Missing cached shader map for material AK47_MATT, compiling. 
+[2021.08.09-15.29.57:751][968]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.08.09-15.29.57:751][968]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.09-15.29.57:751][968]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2021.08.09-15.29.57:751][968]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2021.08.09-15.29.59:886][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.08.09-15.30.00:925][ 42]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2021.08.09-15.30.01:802][ 60]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 36
+[2021.08.09-15.30.01:912][ 62]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2021.08.09-15.30.03:254][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 34
+[2021.08.09-15.30.04:009][110]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2021.08.09-15.30.05:122][136]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 32
+[2021.08.09-15.30.05:211][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2021.08.09-15.30.05:291][140]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2021.08.09-15.30.07:278][186]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2021.08.09-15.30.07:650][195]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2021.08.09-15.30.07:953][203]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2021.08.09-15.30.08:476][216]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2021.08.09-15.30.09:110][231]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2021.08.09-15.30.10:068][254]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.09-15.30.11:521][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2021.08.09-15.30.11:966][297]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2021.08.09-15.30.12:053][298]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2021.08.09-15.30.18:030][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.08.09-15.30.18:898][484]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.09-15.30.20:010][522]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.08.09-15.30.20:794][541]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.09-15.30.21:587][557]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.08.09-15.30.21:587][557]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2021.08.09-15.30.21:587][557]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.08.09-15.30.21:587][557]MaterialEditorStats: Base pass vertex shader: 91 instructions
+[2021.08.09-15.30.21:587][557]MaterialEditorStats: Texture samplers: 6/16
+[2021.08.09-15.30.21:587][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.08.09-15.30.21:587][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.08.09-15.30.47:319][672]LogUObjectHash: Compacting FUObjectHashTables data took  10.58ms
+[2021.08.09-15.30.47:331][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.151
+[2021.08.09-15.30.47:332][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.08.09-15.30.47:368][672]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.09-15.30.47:368][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.09-15.30.47:677][672]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter_Auto3943AE6A849FEA98DC26768BED9A2CDA8.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2021.08.09-15.30.47:685][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK] ([1] browsable assets)...
+[2021.08.09-15.30.47:722][672]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK.AK]
+[2021.08.09-15.30.47:722][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK]
+[2021.08.09-15.30.47:893][672]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK_Auto3480B833542467BD0CB99CAB1CE8D1339.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_Auto3.uasset'
+[2021.08.09-15.30.47:900][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_diffuse] ([1] browsable assets)...
+[2021.08.09-15.30.47:924][672]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_diffuse.AK_diffuse]
+[2021.08.09-15.30.47:924][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_diffuse]
+[2021.08.09-15.30.47:959][672]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK_diffuse_Auto36DFA60B040D22C8307D366AEEE6121C5.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_diffuse_Auto3.uasset'
+[2021.08.09-15.30.47:963][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_Skeleton] ([1] browsable assets)...
+[2021.08.09-15.30.47:963][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_Skeleton]
+[2021.08.09-15.30.47:970][672]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK_Skeleton_Auto33DFB677E490690D08686E2A7B2B340AC.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_Skeleton_Auto3.uasset'
+[2021.08.09-15.30.47:975][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_PhysicsAsset] ([1] browsable assets)...
+[2021.08.09-15.30.48:002][672]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_PhysicsAsset.AK_PhysicsAsset]
+[2021.08.09-15.30.48:002][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_PhysicsAsset]
+[2021.08.09-15.30.48:024][672]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK_PhysicsAsset_Auto3BA1521D14137D71721532C857297B87B.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_PhysicsAsset_Auto3.uasset'
+[2021.08.09-15.30.48:027][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_normal] ([1] browsable assets)...
+[2021.08.09-15.30.48:037][672]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_normal.AK_normal]
+[2021.08.09-15.30.48:037][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_normal]
+[2021.08.09-15.30.48:056][672]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK_normal_Auto3E023AD13410B12449040C38762D13D19.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_normal_Auto3.uasset'
+[2021.08.09-15.30.48:058][672]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_specular] ([1] browsable assets)...
+[2021.08.09-15.30.48:066][672]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_specular.AK_specular]
+[2021.08.09-15.30.48:066][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_specular]
+[2021.08.09-15.30.48:080][672]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK_specular_Auto30946508140DDC194299D259F26A3D9CA.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK_specular_Auto3.uasset'
+[2021.08.09-15.30.48:082][672]LogFileHelpers: Auto-saving content packages took 0.751
+[2021.08.09-15.30.57:322][700]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK9B639DC644771940E125CBB1222F6EEB.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Weapons/AK47/AK.uasset'
+[2021.08.09-15.30.57:366][700]AssetCheck: New page: Asset Save: AK
+[2021.08.09-15.30.57:366][700]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/Weapons/AK47/AK.AK
+[2021.08.09-15.30.59:727][771]LogSlate: Window 'AK' being destroyed
+[2021.08.09-15.30.59:736][771]LogSlate: Window 'AK' being destroyed
+[2021.08.09-15.30.59:766][771]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.30.59:767][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.01:085][771]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.09-15.31.01:086][771]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.01:086][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.01:589][771]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.01:589][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.01:606][771]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.01:607][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.01:891][771]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.01:891][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.01:909][771]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.01:909][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.02:349][771]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.02:349][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.02:404][771]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.02:404][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.02:580][771]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.02:581][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.02:909][771]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.02:909][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.03:010][771]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.31.03:011][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.31.20:013][916]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.09-15.31.20:025][916]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.09-15.31.20:048][916]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.09-15.31.32:084][526]LogContentBrowser: Attempting asset rename: NewBlueprint -> Weapon_Base
+[2021.08.09-15.31.32:097][526]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.09-15.31.41:011][  0]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base
+[2021.08.09-15.32.44:351][ 89]BlueprintLog: New page: Compile Weapon_Base
+[2021.08.09-15.32.44:492][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2021.08.09-15.32.46:312][143]LogSlate: Window 'Weapon_Base' being destroyed
+[2021.08.09-15.32.46:340][143]LogSlate: Window 'Weapon_Base' being destroyed
+[2021.08.09-15.32.46:356][143]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.32.46:357][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.33.19:341][537]LogContentBrowser: Attempting asset rename: Swat -> Private
+[2021.08.09-15.33.19:611][537]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/PrivateEB3D13264F779858978692ADF9D4B8BE.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Private.uasset'
+[2021.08.09-15.33.19:736][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.08.09-15.33.19:789][537]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.08.09-15.33.19:822][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.09-15.33.19:867][537]AssetCheck: New page: Asset Save: Private
+[2021.08.09-15.33.19:867][537]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Private.Private
+[2021.08.09-15.33.25:950][857]LogContentBrowser: Attempting asset rename: Swat_PhysicsAsset -> Swat_PhysicsAsset
+[2021.08.09-15.33.30:603][116]LogContentBrowser: Attempting asset rename: Swat_PhysicsAsset -> Swat_PhysicsAsset
+[2021.08.09-15.33.41:147][728]LogContentBrowser: Attempting asset rename: Swat_PhysicsAsset -> Private_PhysicsAsset
+[2021.08.09-15.33.41:289][728]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Private_PhysicsAssetD4ACB715416F8437681F3298E8A74C8D.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Private_PhysicsAsset.uasset'
+[2021.08.09-15.33.41:421][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.08.09-15.33.41:480][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.08.09-15.33.41:513][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.09-15.33.41:614][728]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Private18D4137F44F30537046FD6BE71BB6B9F.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Private.uasset'
+[2021.08.09-15.33.41:674][728]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.09-15.33.41:674][728]LogContentValidation: Display: Validating PhysicsAsset /Game/ThirdPersonBP/Blueprints/Character/Private_PhysicsAsset.Private_PhysicsAsset
+[2021.08.09-15.33.41:674][728]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Private.Private
+[2021.08.09-15.33.48:742][ 36]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Private.Private
+[2021.08.09-15.33.48:750][ 36]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.33.54:087][ 74]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-15.33.54:095][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.38.37:273][773]Cmd: TRANSACTION UNDO
+[2021.08.09-15.38.37:273][773]LogEditorTransaction: Undo Translate Bone
+[2021.08.09-15.38.37:599][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.38.37:600][773]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.41.13:823][197]Cmd: TRANSACTION UNDO
+[2021.08.09-15.41.13:823][197]LogEditorTransaction: Undo Translate Socket
+[2021.08.09-15.41.14:087][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.41.14:088][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.43.13:336][321]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.08.09-15.43.13:359][321]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.065
+[2021.08.09-15.43.13:360][321]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.08.09-15.43.13:375][321]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.09-15.43.13:375][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.09-15.43.13:470][321]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter_Auto44B8AC912477926CCC1F4719B9AEAB6C4.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2021.08.09-15.43.13:473][321]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton] ([1] browsable assets)...
+[2021.08.09-15.43.13:473][321]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton]
+[2021.08.09-15.43.13:488][321]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Swat_Skeleton_Auto45D5C7C864602A2F89AFA438882FF9170.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton_Auto4.uasset'
+[2021.08.09-15.43.13:490][321]LogFileHelpers: Auto-saving content packages took 0.131
+[2021.08.09-15.44.34:187][197]Cmd: TRANSACTION UNDO
+[2021.08.09-15.44.34:187][197]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-15.44.34:428][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.44.34:429][197]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.44.38:074][330]Cmd: TRANSACTION UNDO
+[2021.08.09-15.44.38:074][330]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-15.44.38:382][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.44.38:383][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.47.22:559][843]Cmd: TRANSACTION UNDO
+[2021.08.09-15.47.22:559][843]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-15.47.22:780][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.47.22:781][843]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.47.30:727][144]Cmd: TRANSACTION UNDO
+[2021.08.09-15.47.30:727][144]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-15.47.31:172][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.47.31:174][144]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.47.43:525][572]Cmd: TRANSACTION UNDO
+[2021.08.09-15.47.43:525][572]LogEditorTransaction: Undo Translate Bone
+[2021.08.09-15.47.43:740][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.47.43:740][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.48.06:579][323]Cmd: TRANSACTION UNDO
+[2021.08.09-15.48.06:579][323]LogEditorTransaction: Undo Translate Bone
+[2021.08.09-15.48.06:804][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.48.06:805][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.48.20:196][757]Cmd: TRANSACTION UNDO
+[2021.08.09-15.48.20:196][757]LogEditorTransaction: Undo Translate Bone
+[2021.08.09-15.48.20:652][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_57:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.48.20:654][757]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_58:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.49.04:568][  4]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Swat_Skeleton6B5E7BD24A70F076256BE3BDDD7F87BD.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2021.08.09-15.49.04:742][  4]AssetCheck: New page: Asset Save: Swat_Skeleton
+[2021.08.09-15.49.04:742][  4]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-15.49.05:998][ 48]LogSlate: Window 'Swat_Skeleton' being destroyed
+[2021.08.09-15.49.06:008][ 48]LogSlate: Window 'Swat_Skeleton' being destroyed
+[2021.08.09-15.49.06:009][ 48]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.49.06:009][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.49.06:160][ 48]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.49.06:160][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.49.12:326][346]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.09-15.49.58:778][498]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.09-15.51.47:957][166]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Private.Private
+[2021.08.09-15.51.47:965][166]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.52.29:691][144]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-15.52.29:713][144]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.09-15.52.29:718][144]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.08.09-15.52.29:917][144]LogPlayLevel: [PlayLevel] Compiling Weapon_Base before play...
+[2021.08.09-15.52.30:006][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.08.09-15.52.30:017][144]LogPlayLevel: PlayLevel: Blueprint regeneration took 302 ms (2 blueprints)
+[2021.08.09-15.52.30:017][144]PIE: New page: PIE session: ThirdPersonExampleMap (9 Aug 2021, 17:52:30)
+[2021.08.09-15.52.30:017][144]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-15.52.30:036][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019320s)
+[2021.08.09-15.52.30:037][144]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-15.52.30:038][144]LogPlayLevel: PIE: World Init took: (0.001985s)
+[2021.08.09-15.52.30:038][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021536s)
+[2021.08.09-15.52.30:082][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.08.09-15.52.30:083][144]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.08.09-15.52.30:083][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-15.52.30:083][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-15.52.30:083][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-15.52.30:083][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-15.52.30:083][144]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-15.52.30:088][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-15.52.30:088][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-15.52.30:088][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-15.52.30:089][144]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-15.52.30:089][144]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-15.52.30:102][144]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-15.52.30:102][144]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-15.52.30:125][144]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.09-15.52.30:127][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-15.52.30:127][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-15.52.30:127][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-15.52.30:128][144]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-15.52.30:128][144]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-15.52.30:128][144]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-15.52.30:146][144]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-15.52.30:147][144]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-15.52.30:147][144]LogInit: FAudioDevice initialized.
+[2021.08.09-15.52.30:147][144]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-15.52.30:165][144]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.09-15.52.30:168][144]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.09-16.52.30
+[2021.08.09-15.52.30:168][144]LogWorld: Bringing up level for play took: 0.002062
+[2021.08.09-15.52.30:169][144]LogOnline: OSS: Creating online subsystem instance for: :Context_74
+[2021.08.09-15.52.30:173][144]PIE: Server logged in
+[2021.08.09-15.52.30:174][144]PIE: Play in editor total start time 0.468 seconds.
+[2021.08.09-15.52.44:700][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-15.52.44:701][  5]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-15.52.44:701][  5]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.52.44:701][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.52.44:720][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-15.52.44:770][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.52.44:853][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-15.52.44:854][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-15.52.44:857][  5]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-15.52.44:925][  5]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2021.08.09-15.52.45:036][  6]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2021.08.09-15.52.56:814][523]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-15.52.56:821][523]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_61:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.53.03:648][779]LogSlate: Window 'Swat_Skeleton' being destroyed
+[2021.08.09-15.53.03:658][779]LogSlate: Window 'Swat_Skeleton' being destroyed
+[2021.08.09-15.53.03:668][779]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.53.03:668][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.53.03:766][779]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.53.03:766][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.53.03:931][779]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.53.03:931][779]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.53.29:605][879]LogUObjectHash: Compacting FUObjectHashTables data took  12.04ms
+[2021.08.09-15.53.29:727][879]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto54CC8A41745DC562B463E06AFABE7FDFE.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.08.09-15.53.29:739][879]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.252
+[2021.08.09-15.53.29:739][879]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.252
+[2021.08.09-15.53.29:741][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.08.09-15.53.29:820][879]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.09-15.53.29:821][879]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.09-15.53.30:117][879]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter_Auto5D02D22454159B474B720B08836C410D2.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2021.08.09-15.53.30:122][879]LogFileHelpers: Auto-saving content packages took 0.382
+[2021.08.09-15.54.16:461][ 20]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Character/Private.Private
+[2021.08.09-15.54.16:481][ 20]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.54.18:504][ 64]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-15.54.18:511][ 64]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.54.23:036][225]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Walk_RunBS.Walk_RunBS
+[2021.08.09-15.54.23:043][225]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.54.23:463][225]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.09-15.57.31:841][967]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.33:957][968]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.118 s
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: === Handled ensure: ===
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: 
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: Stack: 
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbdd7b756 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbd6bc5fe UE4Editor-Core.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x0000023b78ffd64b UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x0000023b7a016d04 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x0000023b79ff089f UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x0000023b7a00f7be UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x0000023b7a00d4f8 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8fd9864f UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8fd89ab8 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8fd9cf09 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8f755bad UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8fd44f13 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8fd1918f UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8fd2e73d UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffb8fd32427 UE4Editor-Renderer.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbd51ecdc UE4Editor-Core.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbd51f0ce UE4Editor-Core.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbcb2aa5c2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbcb2b2c94 UE4Editor-RenderCore.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbda7898b UE4Editor-Core.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbda71620 UE4Editor-Core.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffc0ff17034 KERNEL32.DLL!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: [Callstack] 0x00007ffc11a22651 ntdll.dll!UnknownFunction []
+[2021.08.09-15.57.33:957][968]LogOutputDevice: Error: 
+[2021.08.09-15.57.33:957][968]LogStats:                SubmitErrorReport -  0.000 s
+[2021.08.09-15.57.37:910][968]LogStats:                    SendNewReport -  3.951 s
+[2021.08.09-15.57.37:910][968]LogStats:             FDebug::EnsureFailed -  6.072 s
+[2021.08.09-15.57.37:981][968]LogAudioMixer: Resetting audio stream to device id 
+[2021.08.09-15.57.38:023][968]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-15.57.38:024][968]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-15.57.43:194][147]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.45:233][224]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.48:852][364]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.50:930][443]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.54:361][566]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.54:485][571]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.54:838][584]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.55:084][593]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.55:115][594]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.56:712][646]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.56:737][647]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.56:762][648]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.56:785][649]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.56:812][650]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.57:616][682]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.57:647][683]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.57:675][684]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.57:726][686]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.57:752][687]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.57.57:781][688]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.05:330][964]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.05:819][983]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.06:185][997]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.06:586][ 11]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.06:797][ 19]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.06:822][ 20]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:026][ 28]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:048][ 29]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:075][ 30]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:301][ 39]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:328][ 40]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:536][ 48]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:561][ 49]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:644][ 52]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:672][ 53]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:699][ 54]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:729][ 55]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:755][ 56]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:789][ 57]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:852][ 59]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:879][ 60]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:909][ 61]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:936][ 62]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:964][ 63]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.07:997][ 64]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.08:046][ 66]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.08:074][ 67]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.08:101][ 68]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.08:128][ 69]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.08:152][ 70]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.08:179][ 71]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:519][124]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:546][125]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:572][126]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:595][127]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:620][128]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:646][129]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:673][130]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:695][131]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:721][132]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:749][133]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:776][134]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:828][136]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:853][137]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:886][138]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:918][139]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:948][140]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.09:976][141]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.10:076][145]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.10:103][146]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.10:127][147]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.10:155][148]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.10:183][149]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.10:210][150]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.10:573][164]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.11:989][216]Cmd: TRANSACTION UNDO
+[2021.08.09-15.58.11:989][216]LogEditorTransaction: Undo Translate Socket
+[2021.08.09-15.58.12:330][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.12:331][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.12:336][216]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.30:058][835]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.30:059][835]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.35:687][ 61]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.35:687][ 61]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.36:154][ 78]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.36:154][ 78]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.58.38:438][170]Cmd: TRANSACTION UNDO
+[2021.08.09-15.58.38:438][170]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-15.58.39:109][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.39:110][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.39:115][170]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.50:758][615]Cmd: TRANSACTION UNDO
+[2021.08.09-15.58.50:758][615]LogEditorTransaction: Undo Reset to Default
+[2021.08.09-15.58.51:161][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.51:161][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.58.51:166][615]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.59.10:798][283]Cmd: TRANSACTION UNDO
+[2021.08.09-15.59.10:798][283]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-15.59.11:335][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.59.11:337][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.59.11:348][283]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-15.59.20:939][627]Cmd: MODE GRID=1
+[2021.08.09-15.59.22:203][675]Cmd: MODE ROTGRID=1
+[2021.08.09-15.59.25:134][773]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.59.25:134][773]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.59.30:533][989]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.59.30:533][989]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-15.59.45:369][467]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Swat_Skeleton43A1B7D1468BE019C2DD05AB922CEFBF.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2021.08.09-15.59.45:421][467]AssetCheck: New page: Asset Save: Swat_Skeleton
+[2021.08.09-15.59.45:421][467]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-15.59.50:288][670]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-15.59.50:306][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-15.59.50:306][670]PIE: New page: PIE session: ThirdPersonExampleMap (9 Aug 2021, 17:59:50)
+[2021.08.09-15.59.50:306][670]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-15.59.50:327][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021200s)
+[2021.08.09-15.59.50:329][670]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-15.59.50:329][670]LogPlayLevel: PIE: World Init took: (0.002097s)
+[2021.08.09-15.59.50:329][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023523s)
+[2021.08.09-15.59.50:375][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.08.09-15.59.50:388][670]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.08.09-15.59.50:388][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-15.59.50:389][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-15.59.50:389][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-15.59.50:389][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-15.59.50:389][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-15.59.50:389][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-15.59.50:389][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-15.59.50:389][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-15.59.50:389][670]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-15.59.50:389][670]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-15.59.50:405][670]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-15.59.50:405][670]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-15.59.50:526][670]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.09-15.59.50:527][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-15.59.50:527][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-15.59.50:527][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-15.59.50:536][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-15.59.50:537][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-15.59.50:537][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-15.59.50:581][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-15.59.50:582][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-15.59.50:582][670]LogInit: FAudioDevice initialized.
+[2021.08.09-15.59.50:582][670]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-15.59.50:601][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.09-15.59.50:608][670]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.09-16.59.50
+[2021.08.09-15.59.50:609][670]LogWorld: Bringing up level for play took: 0.004572
+[2021.08.09-15.59.50:610][670]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2021.08.09-15.59.50:620][670]PIE: Server logged in
+[2021.08.09-15.59.50:622][670]PIE: Play in editor total start time 0.322 seconds.
+[2021.08.09-15.59.59:330][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-15.59.59:330][171]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-15.59.59:330][171]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.59.59:331][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.59.59:346][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-15.59.59:377][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.59.59:442][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-15.59.59:443][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-15.59.59:446][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-15.59.59:497][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-15.59.59:507][171]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2021.08.09-15.59.59:628][172]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2021.08.09-16.00.27:625][171]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-16.00.27:625][171]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a non-invertible matrix, this results in NaNs! Use Inverse() instead.
+[2021.08.09-16.00.30:554][286]Cmd: TRANSACTION UNDO
+[2021.08.09-16.00.30:554][286]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-16.00.31:026][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.31:028][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.31:039][286]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.32:081][310]Cmd: TRANSACTION UNDO
+[2021.08.09-16.00.32:081][310]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-16.00.32:366][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.32:367][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.32:371][310]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.34:426][382]Cmd: TRANSACTION UNDO
+[2021.08.09-16.00.34:426][382]LogEditorTransaction: Undo Translate Socket
+[2021.08.09-16.00.34:733][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.34:734][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.34:738][382]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.35:929][421]Cmd: TRANSACTION UNDO
+[2021.08.09-16.00.35:929][421]LogEditorTransaction: Undo Set Vector Property
+[2021.08.09-16.00.36:297][421]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.36:297][421]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.36:302][421]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.39:398][530]Cmd: TRANSACTION UNDO
+[2021.08.09-16.00.39:399][530]LogEditorTransaction: Undo Translate Socket
+[2021.08.09-16.00.39:858][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.39:859][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.39:863][530]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.43:108][650]Cmd: TRANSACTION REDO
+[2021.08.09-16.00.43:108][650]LogEditorTransaction: Redo Translate Socket
+[2021.08.09-16.00.43:437][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_62:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.43:438][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_63:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.43:445][650]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_64:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.09-16.00.47:089][747]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Swat_SkeletonA5CCF5AE4841B4618D0D0A83F598737C.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2021.08.09-16.00.47:118][747]AssetCheck: New page: Asset Save: Swat_Skeleton
+[2021.08.09-16.00.47:118][747]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-16.00.50:089][872]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-16.00.50:106][872]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-16.00.50:106][872]PIE: New page: PIE session: ThirdPersonExampleMap (9 Aug 2021, 18:00:50)
+[2021.08.09-16.00.50:106][872]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.00.50:123][872]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016502s)
+[2021.08.09-16.00.50:124][872]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-16.00.50:125][872]LogPlayLevel: PIE: World Init took: (0.001903s)
+[2021.08.09-16.00.50:125][872]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018754s)
+[2021.08.09-16.00.50:167][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.08.09-16.00.50:174][872]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2021.08.09-16.00.50:174][872]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-16.00.50:174][872]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-16.00.50:174][872]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-16.00.50:174][872]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-16.00.50:174][872]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-16.00.50:174][872]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-16.00.50:174][872]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-16.00.50:174][872]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-16.00.50:174][872]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-16.00.50:175][872]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-16.00.50:188][872]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-16.00.50:188][872]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-16.00.50:211][872]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.09-16.00.50:212][872]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-16.00.50:212][872]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-16.00.50:212][872]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-16.00.50:212][872]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-16.00.50:212][872]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-16.00.50:212][872]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-16.00.50:232][872]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-16.00.50:232][872]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-16.00.50:232][872]LogInit: FAudioDevice initialized.
+[2021.08.09-16.00.50:232][872]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-16.00.50:243][872]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.09-16.00.50:246][872]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.09-17.00.50
+[2021.08.09-16.00.50:246][872]LogWorld: Bringing up level for play took: 0.001973
+[2021.08.09-16.00.50:247][872]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.08.09-16.00.50:250][872]PIE: Server logged in
+[2021.08.09-16.00.50:251][872]PIE: Play in editor total start time 0.15 seconds.
+[2021.08.09-16.01.16:559][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.01.16:559][415]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.01.16:559][415]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.01.16:560][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.01.16:575][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-16.01.16:601][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.01.16:630][415]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-16.01.16:630][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.01.16:631][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.01.16:652][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.01.16:656][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.08.09-16.01.16:985][416]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.08.09-16.02.21:506][683]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Swat_SkeletonCA7F7BA64692C655043B41ABD6B2128F.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2021.08.09-16.02.21:559][683]AssetCheck: New page: Asset Save: Swat_Skeleton
+[2021.08.09-16.02.21:560][683]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-16.02.29:154][930]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-16.02.29:173][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-16.02.29:173][930]PIE: New page: PIE session: ThirdPersonExampleMap (9 Aug 2021, 18:02:29)
+[2021.08.09-16.02.29:174][930]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.02.29:198][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024605s)
+[2021.08.09-16.02.29:200][930]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-16.02.29:200][930]LogPlayLevel: PIE: World Init took: (0.001921s)
+[2021.08.09-16.02.29:201][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026892s)
+[2021.08.09-16.02.29:247][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.08.09-16.02.29:258][930]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.08.09-16.02.29:258][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-16.02.29:258][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-16.02.29:258][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-16.02.29:258][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-16.02.29:259][930]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-16.02.29:259][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-16.02.29:259][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-16.02.29:259][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-16.02.29:259][930]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-16.02.29:259][930]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-16.02.29:274][930]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-16.02.29:275][930]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-16.02.29:300][930]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.09-16.02.29:300][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-16.02.29:300][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-16.02.29:300][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-16.02.29:300][930]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-16.02.29:301][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-16.02.29:301][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-16.02.29:322][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-16.02.29:322][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-16.02.29:322][930]LogInit: FAudioDevice initialized.
+[2021.08.09-16.02.29:322][930]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-16.02.29:332][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.09-16.02.29:336][930]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.09-17.02.29
+[2021.08.09-16.02.29:337][930]LogWorld: Bringing up level for play took: 0.002620
+[2021.08.09-16.02.29:337][930]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.08.09-16.02.29:342][930]PIE: Server logged in
+[2021.08.09-16.02.29:343][930]PIE: Play in editor total start time 0.176 seconds.
+[2021.08.09-16.02.40:232][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.02.40:232][575]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.02.40:233][575]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.02.40:233][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.02.40:256][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-16.02.40:312][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.02.40:380][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.02.40:381][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.02.40:384][575]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.02.40:450][575]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2021.08.09-16.02.40:593][576]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.08.09-16.03.39:881][257]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-16.03.39:921][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-16.03.39:921][257]PIE: New page: PIE session: ThirdPersonExampleMap (9 Aug 2021, 18:03:39)
+[2021.08.09-16.03.39:927][257]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.03.39:954][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027788s)
+[2021.08.09-16.03.39:956][257]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-16.03.39:957][257]LogPlayLevel: PIE: World Init took: (0.002549s)
+[2021.08.09-16.03.39:957][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030677s)
+[2021.08.09-16.03.40:002][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.08.09-16.03.40:005][257]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.08.09-16.03.40:005][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-16.03.40:005][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-16.03.40:005][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-16.03.40:005][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-16.03.40:005][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-16.03.40:005][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-16.03.40:005][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-16.03.40:005][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-16.03.40:006][257]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-16.03.40:006][257]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-16.03.40:018][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-16.03.40:018][257]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-16.03.40:039][257]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.09-16.03.40:040][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-16.03.40:040][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-16.03.40:040][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-16.03.40:040][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-16.03.40:040][257]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-16.03.40:040][257]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-16.03.40:059][257]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-16.03.40:059][257]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-16.03.40:059][257]LogInit: FAudioDevice initialized.
+[2021.08.09-16.03.40:059][257]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-16.03.40:068][257]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.09-16.03.40:071][257]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.09-17.03.40
+[2021.08.09-16.03.40:071][257]LogWorld: Bringing up level for play took: 0.001815
+[2021.08.09-16.03.40:071][257]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2021.08.09-16.03.40:075][257]PIE: Server logged in
+[2021.08.09-16.03.40:076][257]PIE: Play in editor total start time 0.169 seconds.
+[2021.08.09-16.03.46:548][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.03.46:548][628]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.03.46:548][628]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.03.46:549][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.03.46:560][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-16.03.46:587][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.03.46:622][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.03.46:623][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.03.46:625][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.03.46:656][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.08.09-16.03.46:707][629]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2021.08.09-16.04.40:537][441]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.08.09-16.04.43:277][441]LogSlate: Window 'Save Content' being destroyed
+[2021.08.09-16.04.46:161][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.09-16.04.46:201][603]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap9AB568B7491A1BB05E4E8AA5D572D5BC.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.09-16.04.46:406][603]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_BuiltDataF9FCEB16491C0F7B086979BB53086299.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.09-16.04.46:431][603]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.09-16.04.46:431][603]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.09-16.04.46:431][603]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.09-16.04.48:523][723]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-16.04.48:547][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-16.04.48:547][723]PIE: New page: PIE session: ThirdPersonExampleMap (9 Aug 2021, 18:04:48)
+[2021.08.09-16.04.48:550][723]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.04.48:566][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015920s)
+[2021.08.09-16.04.48:573][723]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-16.04.48:573][723]LogPlayLevel: PIE: World Init took: (0.007121s)
+[2021.08.09-16.04.48:573][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023329s)
+[2021.08.09-16.04.48:624][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.08.09-16.04.48:628][723]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-16.04.48:628][723]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-16.04.48:628][723]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-16.04.48:628][723]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-16.04.48:644][723]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-16.04.48:644][723]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-16.04.48:681][723]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.09-16.04.48:681][723]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-16.04.48:681][723]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-16.04.48:681][723]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-16.04.48:682][723]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-16.04.48:682][723]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-16.04.48:682][723]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-16.04.48:708][723]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-16.04.48:708][723]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-16.04.48:708][723]LogInit: FAudioDevice initialized.
+[2021.08.09-16.04.48:708][723]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-16.04.48:724][723]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.09-16.04.48:732][723]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.09-17.04.48
+[2021.08.09-16.04.48:733][723]LogWorld: Bringing up level for play took: 0.004840
+[2021.08.09-16.04.48:733][723]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.08.09-16.04.48:742][723]PIE: Server logged in
+[2021.08.09-16.04.48:744][723]PIE: Play in editor total start time 0.203 seconds.
+[2021.08.09-16.05.01:748][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.05.01:748][413]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-16.05.01:748][413]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.05.01:749][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.05.01:762][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-16.05.01:801][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.05.01:839][413]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-16.05.01:839][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.05.01:840][413]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-16.05.01:867][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-16.05.01:874][413]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.08.09-16.05.01:939][414]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.08.09-16.05.31:533][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.08.09-16.05.31:568][531]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMapC86DFCE9487A1341CD4FC6AC0456A22B.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.09-16.05.31:726][531]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_BuiltDataFF3249E1469630E89F362A8816405E65.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.09-16.05.31:750][531]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.09-16.05.31:751][531]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.09-16.05.31:751][531]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.09-16.05.37:341][776]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Swat_SkeletonB7EB0F1740FA7B88D101B28F9E4576DE.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.uasset'
+[2021.08.09-16.05.37:367][776]AssetCheck: New page: Asset Save: Swat_Skeleton
+[2021.08.09-16.05.37:368][776]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Character/Swat_Skeleton.Swat_Skeleton
+[2021.08.09-16.05.38:391][811]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.05.38:391][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.05.38:510][811]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.05.38:511][811]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.05.38:953][826]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.05.38:953][826]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.05.39:743][841]LogSlate: Window 'Private' being destroyed
+[2021.08.09-16.05.39:763][841]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.05.39:763][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.05.41:248][912]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.05.41:248][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-16.05.41:277][912]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-16.05.41:277][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
