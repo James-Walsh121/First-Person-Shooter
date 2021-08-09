@@ -5649,3 +5649,6 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.08.09-14.47.14:677][ 68]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Walk_RunBSE7AB1F3844F4480ACA70FBB164801975.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Walk_RunBS.uasset'
 [2021.08.09-14.47.14:717][ 68]AssetCheck: New page: Asset Save: Walk_RunBS
 [2021.08.09-14.47.14:717][ 68]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Walk_RunBS.Walk_RunBS
+[2021.08.09-14.51.39:885][912]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Walk_RunBSDA1199A343D7F33990CE1F94F8635BF5.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Walk_RunBS.uasset'
+[2021.08.09-14.51.39:949][912]AssetCheck: New page: Asset Save: Walk_RunBS
+[2021.08.09-14.51.39:949][912]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Walk_RunBS.Walk_RunBS
