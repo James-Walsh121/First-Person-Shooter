@@ -5652,3 +5652,103 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2021.08.09-14.51.39:885][912]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Walk_RunBSDA1199A343D7F33990CE1F94F8635BF5.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Walk_RunBS.uasset'
 [2021.08.09-14.51.39:949][912]AssetCheck: New page: Asset Save: Walk_RunBS
 [2021.08.09-14.51.39:949][912]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Character/Walk_RunBS.Walk_RunBS
+[2021.08.09-14.54.30:994][563]BlueprintLog: New page: Compile Private_AnimBP
+[2021.08.09-14.54.31:011][563]LogBlueprint: Warning: [AssetLog] C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\Content\ThirdPersonBP\Blueprints\Character\Private_AnimBP.uasset: [Compiler] Idle to Walk_Run  will never be taken, please connect something to  Can Enter Transition
+[2021.08.09-14.54.31:011][563]LogBlueprint: Warning: [AssetLog] C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\Content\ThirdPersonBP\Blueprints\Character\Private_AnimBP.uasset: [Compiler] Walk_Run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.08.09-14.54.31:123][563]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2021.08.09-14.59.37:204][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.08.09-14.59.37:208][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.075
+[2021.08.09-14.59.37:209][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Character/Private_AnimBP] ([1] browsable assets)...
+[2021.08.09-14.59.37:246][230]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Private_AnimBP.Private_AnimBP]
+[2021.08.09-14.59.37:247][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Character/Private_AnimBP]
+[2021.08.09-14.59.37:324][230]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Private_AnimBP_Auto1EF2512F34C363724B745DD8BAD42BD10.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Character/Private_AnimBP_Auto1.uasset'
+[2021.08.09-14.59.37:326][230]LogFileHelpers: Auto-saving content packages took 0.118
+[2021.08.09-15.05.18:579][428]BlueprintLog: New page: Compile Private_AnimBP
+[2021.08.09-15.05.18:599][428]LogBlueprint: Warning: [AssetLog] C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\Content\ThirdPersonBP\Blueprints\Character\Private_AnimBP.uasset: [Compiler] Idle to Walk_Run  will never be taken, please connect something to  Can Enter Transition
+[2021.08.09-15.05.18:601][428]LogBlueprint: Warning: [AssetLog] C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\Content\ThirdPersonBP\Blueprints\Character\Private_AnimBP.uasset: [Compiler] Walk_Run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.08.09-15.05.18:737][428]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2021.08.09-15.07.06:685][708]BlueprintLog: New page: Compile Private_AnimBP
+[2021.08.09-15.07.06:697][708]LogBlueprint: Warning: [AssetLog] C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\Content\ThirdPersonBP\Blueprints\Character\Private_AnimBP.uasset: [Compiler] Walk_Run to Idle  will never be taken, please connect something to  Can Enter Transition
+[2021.08.09-15.07.06:799][708]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2021.08.09-15.07.33:473][486]BlueprintLog: New page: Compile Private_AnimBP
+[2021.08.09-15.07.33:577][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.43ms
+[2021.08.09-15.08.21:122][ 21]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Private_AnimBP0EE9245B43E1D976CB64979EDEC3ACE8.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Character/Private_AnimBP.uasset'
+[2021.08.09-15.08.21:153][ 21]AssetCheck: New page: Asset Save: Private_AnimBP
+[2021.08.09-15.08.21:153][ 21]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Character/Private_AnimBP.Private_AnimBP
+[2021.08.09-15.08.47:173][645]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2021.08.09-15.08.47:176][645]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2021.08.09-15.08.47:178][645]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2021.08.09-15.08.47:179][645]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Swat_Skeleton, removing AnimBP from actor.
+[2021.08.09-15.09.00:295][727]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.09-15.09.48:888][601]LogUObjectHash: Compacting FUObjectHashTables data took  12.77ms
+[2021.08.09-15.09.49:000][601]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto2732E434042897B5CE62F8782CEC3005E.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.08.09-15.09.49:014][601]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.238
+[2021.08.09-15.09.49:014][601]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.238
+[2021.08.09-15.09.49:015][601]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.08.09-15.09.49:064][601]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.09-15.09.49:064][601]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.09-15.09.49:245][601]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter_Auto26EF2D1254E3964AD9ED340873378E8F0.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2021.08.09-15.09.49:248][601]LogFileHelpers: Auto-saving content packages took 0.234
+[2021.08.09-15.16.16:210][601]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.09-15.16.16:832][601]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2021.08.09-15.16.47:291][528]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.09-15.16.47:422][528]LogUObjectHash: Compacting FUObjectHashTables data took   7.88ms
+[2021.08.09-15.16.51:134][677]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.09-15.16.51:156][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.09-15.16.51:158][677]PIE: New page: PIE session: ThirdPersonExampleMap (9 Aug 2021, 17:16:51)
+[2021.08.09-15.16.51:162][677]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-15.16.51:183][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021576s)
+[2021.08.09-15.16.51:188][677]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.09-15.16.51:197][677]LogPlayLevel: PIE: World Init took: (0.014198s)
+[2021.08.09-15.16.51:198][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.036644s)
+[2021.08.09-15.16.51:254][677]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.08.09-15.16.51:256][677]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.08.09-15.16.51:257][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.09-15.16.51:257][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.09-15.16.51:257][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.09-15.16.51:257][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.09-15.16.51:257][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.09-15.16.51:257][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.09-15.16.51:257][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.09-15.16.51:257][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.09-15.16.51:259][677]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.09-15.16.51:259][677]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.09-15.16.51:278][677]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.09-15.16.51:278][677]LogAudioMixer: Display: 1: FrontRight
+[2021.08.09-15.16.51:312][677]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.09-15.16.51:313][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.09-15.16.51:313][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.09-15.16.51:313][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.09-15.16.51:321][677]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.09-15.16.51:321][677]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.09-15.16.51:321][677]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.09-15.16.51:337][677]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.09-15.16.51:337][677]LogInit: FAudioDevice initialized.
+[2021.08.09-15.16.51:337][677]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.09-15.16.51:337][677]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2021.08.09-15.16.51:375][677]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.09-15.16.51:380][677]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.09-16.16.51
+[2021.08.09-15.16.51:382][677]LogWorld: Bringing up level for play took: 0.005492
+[2021.08.09-15.16.51:394][677]LogOnline: OSS: Creating online subsystem instance for: :Context_62
+[2021.08.09-15.16.51:434][677]PIE: Server logged in
+[2021.08.09-15.16.51:436][677]PIE: Play in editor total start time 0.287 seconds.
+[2021.08.09-15.17.04:317][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-15.17.04:318][429]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.09-15.17.04:319][429]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.09-15.17.04:320][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.17.04:343][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.09-15.17.04:361][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.09-15.17.04:410][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.09-15.17.04:412][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-15.17.04:413][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.09-15.17.04:438][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.09-15.17.04:445][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.08.09-15.17.04:524][430]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2021.08.09-15.17.23:594][556]Cmd: MODE ROTGRID=0
+[2021.08.09-15.17.24:459][586]Cmd: MODE GRID=0
+[2021.08.09-15.18.00:972][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.08.09-15.18.01:006][785]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMapBB11DA434EE862E954889BB8933EE4B4.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.09-15.18.01:593][785]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_BuiltData451D77C741659BC7F84EB5912EE51BD9.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.09-15.18.01:656][785]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.09-15.18.01:657][785]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.09-15.18.01:657][785]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
