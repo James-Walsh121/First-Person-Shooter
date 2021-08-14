@@ -1661,3 +1661,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.14-10.20.02:903][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.08.14-10.20.02:943][765]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
 [2021.08.14-10.20.02:993][766]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.08.14-10.30.00:682][582]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2021.08.14-10.30.00:685][582]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.088
+[2021.08.14-10.30.00:686][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.08.14-10.30.00:744][582]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.14-10.30.00:744][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.14-10.30.01:033][582]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter_Auto265EDECC74BF24FCAA5958D834887858B.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2021.08.14-10.30.01:048][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base] ([1] browsable assets)...
+[2021.08.14-10.30.01:108][582]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base]
+[2021.08.14-10.30.01:108][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base]
+[2021.08.14-10.30.01:229][582]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Weapon_Base_Auto2DBEA85FB46F466B931CDE6844EE992C0.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base_Auto2.uasset'
+[2021.08.14-10.30.01:235][582]LogFileHelpers: Auto-saving content packages took 0.550
