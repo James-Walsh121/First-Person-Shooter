@@ -1872,3 +1872,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.14-11.57.41:678][853]LogPlayLevel: Display: Destroying online subsystem :Context_32
 [2021.08.14-11.57.49:317][126]LogSlate: Window 'Message Log' being destroyed
 [2021.08.14-11.57.49:337][126]LogSlate: Window 'Message Log' being destroyed
+[2021.08.14-11.58.26:934][253]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2021.08.14-11.58.26:974][253]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto2A6A43A9744414F9D57D33A847B5CA8E0.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2021.08.14-11.58.26:979][253]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.145
+[2021.08.14-11.58.26:979][253]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2021.08.14-11.58.26:980][253]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AK47AmmoPickup] ([1] browsable assets)...
+[2021.08.14-11.58.27:022][253]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AK47AmmoPickup.AK47AmmoPickup]
+[2021.08.14-11.58.27:022][253]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AK47AmmoPickup]
+[2021.08.14-11.58.27:051][253]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/AK47AmmoPickup_Auto26D3344194BFCEBDA5E200F8863998B53.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AK47AmmoPickup_Auto2.uasset'
+[2021.08.14-11.58.27:053][253]LogFileHelpers: Auto-saving content packages took 0.074
