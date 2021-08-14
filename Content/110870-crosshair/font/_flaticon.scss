@@ -1,0 +1,89 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:02
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-captains-helm:before { content: "\f100"; }
+.flaticon-circular-gun-target:before { content: "\f101"; }
+.flaticon-circular-target:before { content: "\f102"; }
+.flaticon-cog-wheel-machine-part:before { content: "\f103"; }
+.flaticon-cross-shaped-target:before { content: "\f104"; }
+.flaticon-crosshair:before { content: "\f105"; }
+.flaticon-crosshair-1:before { content: "\f106"; }
+.flaticon-crosshair-complex:before { content: "\f107"; }
+.flaticon-dart-board-target:before { content: "\f108"; }
+.flaticon-device-focus-point:before { content: "\f109"; }
+.flaticon-eye-wide-open:before { content: "\f10a"; }
+.flaticon-fighting-weapon-target:before { content: "\f10b"; }
+.flaticon-focus-point:before { content: "\f10c"; }
+.flaticon-focus-symbol:before { content: "\f10d"; }
+.flaticon-gun-pointer:before { content: "\f10e"; }
+.flaticon-irregular-cross-hair:before { content: "\f10f"; }
+.flaticon-pistol-target:before { content: "\f110"; }
+.flaticon-religion-cross:before { content: "\f111"; }
+.flaticon-round-target-symbol:before { content: "\f112"; }
+.flaticon-selector-square-border:before { content: "\f113"; }
+.flaticon-sharp-decorated-target:before { content: "\f114"; }
+.flaticon-shoot-target-point:before { content: "\f115"; }
+.flaticon-target-design:before { content: "\f116"; }
+.flaticon-targeting-cross:before { content: "\f117"; }
+.flaticon-triangular-cross-hair:before { content: "\f118"; }
+    
+    $font-Flaticon-captains-helm: "\f100";
+    $font-Flaticon-circular-gun-target: "\f101";
+    $font-Flaticon-circular-target: "\f102";
+    $font-Flaticon-cog-wheel-machine-part: "\f103";
+    $font-Flaticon-cross-shaped-target: "\f104";
+    $font-Flaticon-crosshair: "\f105";
+    $font-Flaticon-crosshair-1: "\f106";
+    $font-Flaticon-crosshair-complex: "\f107";
+    $font-Flaticon-dart-board-target: "\f108";
+    $font-Flaticon-device-focus-point: "\f109";
+    $font-Flaticon-eye-wide-open: "\f10a";
+    $font-Flaticon-fighting-weapon-target: "\f10b";
+    $font-Flaticon-focus-point: "\f10c";
+    $font-Flaticon-focus-symbol: "\f10d";
+    $font-Flaticon-gun-pointer: "\f10e";
+    $font-Flaticon-irregular-cross-hair: "\f10f";
+    $font-Flaticon-pistol-target: "\f110";
+    $font-Flaticon-religion-cross: "\f111";
+    $font-Flaticon-round-target-symbol: "\f112";
+    $font-Flaticon-selector-square-border: "\f113";
+    $font-Flaticon-sharp-decorated-target: "\f114";
+    $font-Flaticon-shoot-target-point: "\f115";
+    $font-Flaticon-target-design: "\f116";
+    $font-Flaticon-targeting-cross: "\f117";
+    $font-Flaticon-triangular-cross-hair: "\f118";
