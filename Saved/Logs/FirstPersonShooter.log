@@ -1509,3 +1509,247 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.16-13.54.14:295][951]LogPlayLevel: Display: Destroying online subsystem :Context_26
 [2021.08.16-13.54.19:747][  9]LogSlate: Window 'Message Log' being destroyed
 [2021.08.16-13.54.19:820][  9]LogSlate: Window 'Message Log' being destroyed
+[2021.08.16-13.56.49:238][367]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.16-13.57.21:227][361]LogSlate: Took 0.010408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.08.16-13.57.24:085][442]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.16-13.57.24:240][442]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.08.16-13.57.50:536][314]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.16-13.57.50:661][314]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.08.16-13.57.51:346][323]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter0DAAC7B74434D27718AB27BEB89F1312.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.16-13.57.51:374][323]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.16-13.57.51:374][323]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.16-13.57.56:334][479]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.08.16-13.57.56:366][479]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-13.57.56:366][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-13.57.57:781][530]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.16-13.59.14:716][695]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.16-14.00.47:351][955]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.08.16-14.00.47:399][955]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto4196D1A73400002C96F080F8563A1270E.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2021.08.16-14.00.47:404][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.133
+[2021.08.16-14.00.47:404][955]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.133
+[2021.08.16-14.00.47:404][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FPSHUD] ([1] browsable assets)...
+[2021.08.16-14.00.47:404][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FPSHUD]
+[2021.08.16-14.00.47:445][955]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/FPSHUD_Auto45F8E36194571F4F138AD059F0FA4BF9C.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FPSHUD_Auto4.uasset'
+[2021.08.16-14.00.47:447][955]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.08.16-14.01.30:697][118]BlueprintLog: New page: Compile FPSHUD
+[2021.08.16-14.01.30:783][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.08.16-14.01.32:309][171]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/FPSHUD735F3CCC476FAC3A1DF13BA02C556DDF.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/FPSHUD.uasset'
+[2021.08.16-14.01.32:358][171]AssetCheck: New page: Asset Save: FPSHUD
+[2021.08.16-14.01.32:358][171]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.16-14.01.32:783][186]LogSlate: Window 'FPSHUD' being destroyed
+[2021.08.16-14.01.32:825][186]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-14.01.32:825][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.01.32:847][186]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-14.01.32:847][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.01.35:191][297]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.16-14.02.12:677][491]BlueprintLog: New page: Compile FPSHUD
+[2021.08.16-14.02.12:825][491]LogUObjectHash: Compacting FUObjectHashTables data took   6.25ms
+[2021.08.16-14.02.14:089][525]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/FPSHUD34463ED3425E31988EBC1EBC2CEF680B.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/FPSHUD.uasset'
+[2021.08.16-14.02.14:114][525]AssetCheck: New page: Asset Save: FPSHUD
+[2021.08.16-14.02.14:114][525]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.16-14.02.31:078][  6]LogSlate: Window 'FPSHUD' being destroyed
+[2021.08.16-14.02.31:092][  6]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-14.02.31:092][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.02.31:110][  6]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-14.02.31:110][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.02.32:532][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.16-14.02.32:550][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.16-14.02.32:551][ 80]PIE: New page: PIE session: ThirdPersonExampleMap (16 Aug 2021, 16:02:32)
+[2021.08.16-14.02.32:578][ 80]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.16-14.02.32:603][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024792s)
+[2021.08.16-14.02.32:604][ 80]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.16-14.02.32:605][ 80]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2021.08.16-14.02.32:605][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026925s)
+[2021.08.16-14.02.32:671][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.08.16-14.02.32:674][ 80]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.16-14.02.32:674][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.16-14.02.32:674][ 80]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.16-14.02.32:674][ 80]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.16-14.02.32:691][ 80]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.16-14.02.32:691][ 80]LogAudioMixer: Display: 1: FrontRight
+[2021.08.16-14.02.32:711][ 80]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.16-14.02.32:711][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.16-14.02.32:712][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.16-14.02.32:712][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.16-14.02.32:712][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.16-14.02.32:712][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.16-14.02.32:712][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.16-14.02.32:730][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.16-14.02.32:730][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.16-14.02.32:730][ 80]LogInit: FAudioDevice initialized.
+[2021.08.16-14.02.32:730][ 80]LogAudio: Display: Audio Device (ID: 9) registered with world 'ThirdPersonExampleMap'.
+[2021.08.16-14.02.32:743][ 80]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.16-14.02.32:748][ 80]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.16-15.02.32
+[2021.08.16-14.02.32:748][ 80]LogWorld: Bringing up level for play took: 0.004230
+[2021.08.16-14.02.32:749][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.08.16-14.02.32:753][ 80]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.16-14.02.32:753][ 80]PIE: Server logged in
+[2021.08.16-14.02.32:754][ 80]PIE: Play in editor total start time 0.209 seconds.
+[2021.08.16-14.02.35:554][244]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.16-14.02.35:555][244]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.16-14.02.35:637][249]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.16-14.02.35:637][249]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.16-14.02.35:637][249]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.16-14.02.35:839][261]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.16-14.02.36:857][322]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.36:858][322]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.36:892][324]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.40:469][537]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.40:469][537]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.40:470][537]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.40:552][542]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.40:552][542]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.40:567][543]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.41:005][569]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.41:005][569]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.41:006][569]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.41:006][569]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.41:020][570]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.41:020][570]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.41:087][574]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.41:087][574]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.41:088][574]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.41:088][574]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.41:103][575]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.41:187][580]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.41:188][580]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.41:188][580]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.41:188][580]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.41:188][580]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.41:203][581]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.41:522][600]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.41:554][602]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.41:555][602]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.41:556][602]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.41:639][607]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.41:639][607]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.41:656][608]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.41:739][613]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.41:739][613]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.16-14.02.41:755][614]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.16-14.02.42:158][638]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.16-14.02.43:406][713]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.43:406][713]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.43:490][718]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.43:490][718]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.43:490][718]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.43:524][720]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.43:924][744]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.43:924][744]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.43:957][746]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.44:007][749]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.44:007][749]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.44:024][750]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.44:392][772]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.44:392][772]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.44:407][773]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.44:474][777]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.16-14.02.44:474][777]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.16-14.02.44:491][778]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.16-14.02.46:716][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.16-14.02.46:716][908]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.16-14.02.46:717][908]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-14.02.46:718][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.02.46:737][908]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.16-14.02.46:798][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.02.46:851][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.16-14.02.46:852][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.16-14.02.46:855][908]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.16-14.02.46:912][908]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.16-14.02.46:922][908]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.08.16-14.02.47:249][909]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.08.16-14.02.48:451][968]LogSlate: Window 'Message Log' being destroyed
+[2021.08.16-14.02.48:475][968]LogSlate: Window 'Message Log' being destroyed
+[2021.08.16-14.03.03:899][ 76]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.08.16-14.03.03:912][ 76]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.08.16-14.03.03:941][ 76]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.08.16-14.03.30:562][315]LogContentBrowser: Attempting asset rename: NewBlueprint -> Objective1
+[2021.08.16-14.03.30:577][315]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.08.16-14.03.32:636][408]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Objective1.Objective1
+[2021.08.16-14.03.40:054][636]BlueprintLog: New page: Compile Objective1
+[2021.08.16-14.03.40:114][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.08.16-14.04.41:360][934]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CubeMesh)
+[2021.08.16-14.04.42:714][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.16-14.04.43:770][ 35]LogEditorViewport: Clicking on Actor (LMB): Objective1_C (Objective1)
+[2021.08.16-14.05.14:519][379]BlueprintLog: New page: Compile Objective1
+[2021.08.16-14.05.14:689][379]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2021.08.16-14.05.15:141][382]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Objective1DC9001CD4E9E5203DE0FA3AA50F32E78.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Objective1.uasset'
+[2021.08.16-14.05.15:173][382]AssetCheck: New page: Asset Save: Objective1
+[2021.08.16-14.05.15:173][382]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Objective1.Objective1
+[2021.08.16-14.06.03:090][294]BlueprintLog: New page: Compile Objective1
+[2021.08.16-14.06.03:171][294]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.08.16-14.06.21:191][505]BlueprintLog: New page: Compile Objective1
+[2021.08.16-14.06.21:351][505]LogUObjectHash: Compacting FUObjectHashTables data took  11.09ms
+[2021.08.16-14.06.21:991][513]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Objective1249794244E49BD6B6072FCB8A0F3B46A.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Objective1.uasset'
+[2021.08.16-14.06.22:016][513]AssetCheck: New page: Asset Save: Objective1
+[2021.08.16-14.06.22:016][513]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Objective1.Objective1
+[2021.08.16-14.06.22:598][534]LogSlate: Window 'Objective1' being destroyed
+[2021.08.16-14.06.22:626][534]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-14.06.22:626][534]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.06.27:413][796]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.16-14.06.27:432][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.16-14.06.27:432][796]PIE: New page: PIE session: ThirdPersonExampleMap (16 Aug 2021, 16:06:27)
+[2021.08.16-14.06.27:433][796]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.16-14.06.27:453][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020616s)
+[2021.08.16-14.06.27:455][796]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.16-14.06.27:455][796]LogPlayLevel: PIE: World Init took: (0.001833s)
+[2021.08.16-14.06.27:455][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022821s)
+[2021.08.16-14.06.27:506][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.08.16-14.06.27:508][796]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.08.16-14.06.27:508][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.16-14.06.27:508][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.16-14.06.27:508][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.16-14.06.27:509][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.16-14.06.27:509][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.16-14.06.27:509][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.16-14.06.27:509][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.16-14.06.27:509][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.16-14.06.27:509][796]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.16-14.06.27:509][796]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.16-14.06.27:523][796]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.16-14.06.27:523][796]LogAudioMixer: Display: 1: FrontRight
+[2021.08.16-14.06.27:551][796]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.16-14.06.27:552][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.16-14.06.27:552][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.16-14.06.27:552][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.16-14.06.27:552][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.16-14.06.27:552][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.16-14.06.27:552][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.16-14.06.27:573][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.16-14.06.27:573][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.16-14.06.27:573][796]LogInit: FAudioDevice initialized.
+[2021.08.16-14.06.27:573][796]LogAudio: Display: Audio Device (ID: 10) registered with world 'ThirdPersonExampleMap'.
+[2021.08.16-14.06.27:583][796]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.16-14.06.27:589][796]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.16-15.06.27
+[2021.08.16-14.06.27:589][796]LogWorld: Bringing up level for play took: 0.004601
+[2021.08.16-14.06.27:592][796]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.08.16-14.06.27:596][796]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.16-14.06.27:597][796]PIE: Server logged in
+[2021.08.16-14.06.27:598][796]PIE: Play in editor total start time 0.171 seconds.
+[2021.08.16-14.06.47:412][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.16-14.06.47:412][954]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.16-14.06.47:412][954]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.16-14.06.47:413][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.06.47:425][954]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.16-14.06.47:440][954]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.16-14.06.47:464][954]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.16-14.06.47:465][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.16-14.06.47:466][954]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.16-14.06.47:494][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.16-14.06.47:499][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.08.16-14.06.47:761][955]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.08.16-14.06.49:309][ 15]LogSlate: Window 'Message Log' being destroyed
+[2021.08.16-14.06.49:329][ 15]LogSlate: Window 'Message Log' being destroyed
+[2021.08.16-14.07.46:669][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.16-14.07.46:718][925]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMapA71E2F2D44CE9C188AACD78FE51B285F.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.16-14.07.46:884][925]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_BuiltDataFFA45BD44D9541CF22190DAF045F6106.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.16-14.07.46:909][925]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.16-14.07.46:909][925]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.16-14.07.46:909][925]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
