@@ -3085,3 +3085,363 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Get SkeletalMesh1
 [2021.08.17-12.34.00:421][207]LogPlayLevel: Display: Destroying online subsystem :Context_84
 [2021.08.17-12.34.01:739][272]LogSlate: Window 'Message Log' being destroyed
 [2021.08.17-12.34.01:762][272]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.36.30:410][768]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.17-12.39.48:845][764]LogEditorTransaction: Undo Move Node
+[2021.08.17-12.41.43:220][957]LogUObjectHash: Compacting FUObjectHashTables data took   9.36ms
+[2021.08.17-12.41.43:352][957]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto08639E5AA40BE544F1C6A06BA92A0F48C.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2021.08.17-12.41.43:366][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.225
+[2021.08.17-12.41.43:366][957]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.225
+[2021.08.17-12.41.43:367][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.08.17-12.41.43:398][957]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.17-12.41.43:399][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.17-12.41.43:855][957]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter_Auto0A5EAA7AD48CEE3F1499A93BAAF0385E6.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset'
+[2021.08.17-12.41.43:862][957]LogFileHelpers: Auto-saving content packages took 0.496
+[2021.08.17-12.44.48:529][978]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.17-12.44.48:868][978]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.08.17-12.44.49:874][995]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter493FF4CD4DD5C15803C621B1A774AAE5.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.17-12.44.49:903][995]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.17-12.44.49:904][995]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.17-12.44.58:962][275]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon
+[2021.08.17-12.47.28:437][599]BlueprintLog: New page: Compile M4A1_Weapon
+[2021.08.17-12.47.28:583][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.08.17-12.47.29:226][617]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/M4A1_Weapon0D8C2BCA48282E5573A1198A51BCB954.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.uasset'
+[2021.08.17-12.47.29:249][617]AssetCheck: New page: Asset Save: M4A1_Weapon
+[2021.08.17-12.47.29:249][617]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon
+[2021.08.17-12.47.32:873][744]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base
+[2021.08.17-12.47.45:529][209]BlueprintLog: New page: Compile Weapon_Base
+[2021.08.17-12.47.45:666][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.17-12.47.46:178][222]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Weapon_Base5D02CB214576793B138E3A8771B9DC6A.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.uasset'
+[2021.08.17-12.47.46:207][222]AssetCheck: New page: Asset Save: Weapon_Base
+[2021.08.17-12.47.46:207][222]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base
+[2021.08.17-12.47.46:623][238]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.47.46:623][238]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.47.59:956][317]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.17-12.47.59:956][317]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.47.59:956][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.51.42:672][475]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon
+[2021.08.17-12.51.52:028][837]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.51.52:028][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.52.21:076][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2021.08.17-12.52.21:126][ 97]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto1688A12774FAF58348C001E8A35353FF7.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.08.17-12.52.21:133][ 97]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.098
+[2021.08.17-12.52.21:133][ 97]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.098
+[2021.08.17-12.52.21:134][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2021.08.17-12.52.21:153][ 97]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2021.08.17-12.52.21:153][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2021.08.17-12.52.21:309][ 97]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter_Auto144B57BC84F6F05F9201CF1993E323439.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2021.08.17-12.52.21:313][ 97]LogFileHelpers: Auto-saving content packages took 0.180
+[2021.08.17-12.54.45:601][822]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.17-12.54.45:773][822]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.08.17-12.54.46:408][827]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacter3E45E65940EBE8FA1AF1DEBB92D9DAF0.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.17-12.54.46:440][827]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.17-12.54.46:440][827]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.17-12.54.51:358][978]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon
+[2021.08.17-12.56.17:756][  9]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-12.56.17:773][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-12.56.17:774][  9]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 14:56:17)
+[2021.08.17-12.56.17:777][  9]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.56.17:796][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018767s)
+[2021.08.17-12.56.17:798][  9]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-12.56.17:799][  9]LogPlayLevel: PIE: World Init took: (0.002029s)
+[2021.08.17-12.56.17:799][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021519s)
+[2021.08.17-12.56.17:842][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.08.17-12.56.17:843][  9]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.08.17-12.56.17:843][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-12.56.17:843][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-12.56.17:843][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-12.56.17:843][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-12.56.17:843][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-12.56.17:843][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-12.56.17:843][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-12.56.17:843][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-12.56.17:844][  9]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-12.56.17:844][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-12.56.17:858][  9]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-12.56.17:858][  9]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-12.56.17:878][  9]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-12.56.17:879][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-12.56.17:879][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-12.56.17:879][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-12.56.17:879][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-12.56.17:879][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-12.56.17:879][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-12.56.17:900][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-12.56.17:900][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-12.56.17:900][  9]LogInit: FAudioDevice initialized.
+[2021.08.17-12.56.17:900][  9]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-12.56.17:913][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-12.56.17:918][  9]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-13.56.17
+[2021.08.17-12.56.17:919][  9]LogWorld: Bringing up level for play took: 0.003862
+[2021.08.17-12.56.17:919][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.08.17-12.56.17:924][  9]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-12.56.17:924][  9]PIE: Server logged in
+[2021.08.17-12.56.17:925][  9]PIE: Play in editor total start time 0.157 seconds.
+[2021.08.17-12.56.21:427][212]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.21:428][212]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.21:493][216]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.21:493][216]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.21:493][216]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.21:733][230]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.21:870][238]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.21:870][238]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.21:943][242]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.21:943][242]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.21:943][242]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.22:046][248]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.22:046][248]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.22:046][248]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.22:072][249]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.22:158][254]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.22:158][254]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.22:191][256]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.22:775][291]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.22:775][291]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.22:877][297]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.22:877][297]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.22:877][297]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.22:967][302]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.22:967][302]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-12.56.22:967][302]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-12.56.23:067][308]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-12.56.29:384][672]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-12.56.29:387][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-12.56.38:935][240]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.38:936][240]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.39:035][246]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.39:036][246]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.39:036][246]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.39:386][267]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.40:246][317]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.40:246][317]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.40:314][321]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.40:314][321]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.40:314][321]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.40:397][326]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.40:414][327]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.40:414][327]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.40:430][328]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.40:514][333]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.40:514][333]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.40:531][334]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.41:571][396]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	M4A1_Weapon_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.M4A1_Weapon_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon_C:Reload:024C
+[2021.08.17-12.56.41:574][396]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  M4A1_Weapon Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-12.56.45:377][623]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.45:377][623]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.45:429][626]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.45:462][628]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.45:462][628]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.45:478][629]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.45:562][634]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.45:562][634]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-12.56.45:596][636]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-12.56.45:669][640]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-12.56.46:865][711]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	M4A1_Weapon_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.M4A1_Weapon_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon_C:Reload:024C
+[2021.08.17-12.56.46:865][711]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  M4A1_Weapon Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-12.56.49:055][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.56.49:055][840]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.56.49:055][840]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.56.49:056][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.56.49:068][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-12.56.49:089][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.56.49:116][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-12.56.49:116][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.56.49:118][840]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.56.49:143][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.56.49:147][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.08.17-12.56.49:315][841]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.08.17-12.56.53:666][ 27]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.56.53:698][ 27]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.59.41:841][405]BlueprintLog: New page: Compile M4A1_Weapon
+[2021.08.17-12.59.41:998][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.08.17-12.59.42:646][421]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/M4A1_Weapon005767BD474345DC1FD9DE8183673DC5.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.uasset'
+[2021.08.17-12.59.42:669][421]AssetCheck: New page: Asset Save: M4A1_Weapon
+[2021.08.17-12.59.42:669][421]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon
+[2021.08.17-12.59.47:382][602]LogWorld: UWorld::CleanupWorld for World_75, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.59.47:382][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.59.48:142][624]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.08.17-12.59.48:167][624]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.08.17-12.59.48:167][624]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.59.48:167][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-13.00.08:467][672]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.17-13.00.18:792][977]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.17-13.00.18:941][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.08.17-13.00.19:593][984]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonCharacterD0355D204A93AACCDF21DCAD7267A69F.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.17-13.00.19:613][984]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.17-13.00.19:613][984]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.17-13.01.06:901][624]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.08.17-13.01.06:915][624]LogWorld: UWorld::CleanupWorld for World_76, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-13.01.06:915][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-13.01.08:028][670]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-13.01.08:047][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-13.01.08:047][670]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 15:01:08)
+[2021.08.17-13.01.08:050][670]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-13.01.08:068][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018521s)
+[2021.08.17-13.01.08:070][670]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-13.01.08:071][670]LogPlayLevel: PIE: World Init took: (0.002444s)
+[2021.08.17-13.01.08:071][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021233s)
+[2021.08.17-13.01.08:113][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.08.17-13.01.08:117][670]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-13.01.08:117][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-13.01.08:117][670]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-13.01.08:117][670]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-13.01.08:132][670]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-13.01.08:132][670]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-13.01.08:155][670]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-13.01.08:156][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-13.01.08:156][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-13.01.08:156][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-13.01.08:156][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-13.01.08:156][670]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-13.01.08:156][670]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-13.01.08:177][670]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-13.01.08:177][670]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-13.01.08:177][670]LogInit: FAudioDevice initialized.
+[2021.08.17-13.01.08:177][670]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-13.01.08:187][670]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-13.01.08:193][670]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-14.01.08
+[2021.08.17-13.01.08:194][670]LogWorld: Bringing up level for play took: 0.005114
+[2021.08.17-13.01.08:194][670]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.08.17-13.01.08:200][670]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-13.01.08:201][670]PIE: Server logged in
+[2021.08.17-13.01.08:203][670]PIE: Play in editor total start time 0.161 seconds.
+[2021.08.17-13.01.10:198][768]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-13.01.10:198][768]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-13.01.13:380][957]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.13:381][957]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.13:417][959]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.13:468][962]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.13:469][962]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.13:487][963]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.13:578][968]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.13:578][968]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.13:597][969]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.13:686][974]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.13:686][974]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.13:703][975]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.13:787][980]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.13:787][980]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.13:803][981]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.13:887][986]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.13:887][986]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.13:903][987]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.13:987][992]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.13:987][992]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.14:003][993]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.14:089][998]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.14:089][998]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.14:190][  4]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.14:190][  4]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-13.01.14:190][  4]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.14:209][  5]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-13.01.14:292][ 10]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-13.01.15:192][ 63]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-13.01.15:192][ 63]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-13.01.22:283][486]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:283][486]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:368][491]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:368][491]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:369][491]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:456][496]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:457][496]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:457][496]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:476][497]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:542][501]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:542][501]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:625][506]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:625][506]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:625][506]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:711][511]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:711][511]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:711][511]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:795][516]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:795][516]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:795][516]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:895][522]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:895][522]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:895][522]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:978][527]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.22:978][527]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-13.01.22:978][527]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.22:981][527]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-13.01.23:045][531]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-13.01.23:855][578]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-13.01.24:693][628]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-13.01.25:394][670]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-13.01.26:137][714]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-13.01.26:320][725]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-13.01.26:636][744]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-13.01.28:343][846]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	M4A1_Weapon_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.M4A1_Weapon_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon_C:Reload:024C
+[2021.08.17-13.01.28:343][846]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  M4A1_Weapon Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-13.01.31:537][ 37]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	M4A1_Weapon_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.M4A1_Weapon_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon_C:Reload:024C
+[2021.08.17-13.01.31:537][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  M4A1_Weapon Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-13.01.39:266][498]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-13.01.39:266][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-13.01.42:393][685]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-13.01.42:394][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-13.01.44:809][829]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.44:810][829]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.44:831][830]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.44:897][834]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.44:897][834]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.44:913][835]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.44:997][840]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.44:997][840]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.45:013][841]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.45:098][846]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.45:098][846]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.45:115][847]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.45:198][852]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.45:198][852]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.45:214][853]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.45:298][858]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.45:298][858]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.45:314][859]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.45:397][864]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.45:397][864]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.45:413][865]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.45:499][870]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.45:499][870]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.45:517][871]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.45:599][876]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.45:599][876]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-13.01.45:615][877]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-13.01.45:699][882]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-13.01.47:608][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-13.01.47:608][990]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-13.01.47:609][990]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-13.01.47:609][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-13.01.47:632][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-13.01.47:683][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-13.01.47:732][990]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-13.01.47:733][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-13.01.47:736][990]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-13.01.47:794][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-13.01.47:802][990]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2021.08.17-13.01.48:130][991]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.08.17-13.01.56:783][464]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-13.01.56:798][464]LogSlate: Window 'Message Log' being destroyed
