@@ -2884,3 +2884,204 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Get SkeletalMesh1
 [2021.08.17-11.58.07:301][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon]
 [2021.08.17-11.58.07:346][324]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/M4A1_Weapon_Auto8C9095A5D490FABE8121FF7AC681384A3.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon_Auto8.uasset'
 [2021.08.17-11.58.07:347][324]LogFileHelpers: Auto-saving content packages took 0.072
+[2021.08.17-12.27.08:679][670]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.17-12.30.16:039][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.17-12.30.16:047][302]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2021.08.17-12.30.16:047][302]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FPSHUD] ([1] browsable assets)...
+[2021.08.17-12.30.16:048][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FPSHUD]
+[2021.08.17-12.30.16:149][302]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/FPSHUD_Auto9E57A018F4E0F98724A2741AE83DB971F.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FPSHUD_Auto9.uasset'
+[2021.08.17-12.30.16:152][302]LogFileHelpers: Auto-saving content packages took 0.105
+[2021.08.17-12.31.38:737][971]BlueprintLog: New page: Compile FPSHUD
+[2021.08.17-12.31.38:898][971]LogUObjectHash: Compacting FUObjectHashTables data took  11.03ms
+[2021.08.17-12.31.39:650][979]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/FPSHUD32FA6BF64FCF3DDFE751C881A93BE0E7.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/FPSHUD.uasset'
+[2021.08.17-12.31.39:725][979]AssetCheck: New page: Asset Save: FPSHUD
+[2021.08.17-12.31.39:725][979]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.17-12.31.40:153][988]LogSlate: Window 'FPSHUD' being destroyed
+[2021.08.17-12.31.40:205][988]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.31.40:205][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.31.40:236][988]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.31.40:236][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.31.42:266][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-12.31.42:285][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-12.31.42:286][ 89]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 14:31:42)
+[2021.08.17-12.31.42:289][ 89]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.31.42:311][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022258s)
+[2021.08.17-12.31.42:314][ 89]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-12.31.42:314][ 89]LogPlayLevel: PIE: World Init took: (0.002921s)
+[2021.08.17-12.31.42:314][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025630s)
+[2021.08.17-12.31.42:373][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.08.17-12.31.42:376][ 89]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.08.17-12.31.42:376][ 89]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-12.31.42:376][ 89]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-12.31.42:376][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-12.31.42:376][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-12.31.42:376][ 89]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-12.31.42:376][ 89]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-12.31.42:376][ 89]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-12.31.42:376][ 89]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-12.31.42:377][ 89]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-12.31.42:377][ 89]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-12.31.42:393][ 89]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-12.31.42:393][ 89]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-12.31.42:415][ 89]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-12.31.42:415][ 89]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-12.31.42:415][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-12.31.42:415][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-12.31.42:416][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-12.31.42:416][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-12.31.42:416][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-12.31.42:437][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-12.31.42:437][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-12.31.42:437][ 89]LogInit: FAudioDevice initialized.
+[2021.08.17-12.31.42:438][ 89]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-12.31.42:449][ 89]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-12.31.42:456][ 89]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-13.31.42
+[2021.08.17-12.31.42:457][ 89]LogWorld: Bringing up level for play took: 0.006605
+[2021.08.17-12.31.42:458][ 89]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.08.17-12.31.42:463][ 89]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-12.31.42:464][ 89]PIE: Server logged in
+[2021.08.17-12.31.42:465][ 89]PIE: Play in editor total start time 0.186 seconds.
+[2021.08.17-12.32.05:889][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.32.05:890][424]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.32.05:890][424]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.32.05:893][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.32.05:907][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-12.32.05:955][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.32.06:008][424]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-12.32.06:009][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.32.06:012][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.32.06:074][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.32.06:083][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2021.08.17-12.32.06:495][425]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.08.17-12.32.08:671][530]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.32.08:689][530]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.32.12:009][706]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.17-12.33.17:585][796]BlueprintLog: New page: Compile FPSHUD
+[2021.08.17-12.33.17:663][796]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2021.08.17-12.33.18:336][812]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/FPSHUD5506100E493BDAB1EF6F0D9CCA83272D.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/FPSHUD.uasset'
+[2021.08.17-12.33.18:361][812]AssetCheck: New page: Asset Save: FPSHUD
+[2021.08.17-12.33.18:361][812]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.17-12.33.18:717][825]LogSlate: Window 'FPSHUD' being destroyed
+[2021.08.17-12.33.18:750][825]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.33.18:750][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.33.18:767][825]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.33.18:767][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.33.20:108][889]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-12.33.20:125][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-12.33.20:125][889]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 14:33:20)
+[2021.08.17-12.33.20:127][889]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.33.20:144][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017440s)
+[2021.08.17-12.33.20:147][889]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-12.33.20:147][889]LogPlayLevel: PIE: World Init took: (0.002791s)
+[2021.08.17-12.33.20:147][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020618s)
+[2021.08.17-12.33.20:196][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.08.17-12.33.20:199][889]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-12.33.20:199][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-12.33.20:199][889]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-12.33.20:199][889]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-12.33.20:212][889]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-12.33.20:213][889]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-12.33.20:234][889]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-12.33.20:235][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-12.33.20:235][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-12.33.20:235][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-12.33.20:235][889]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-12.33.20:235][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-12.33.20:235][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-12.33.20:258][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-12.33.20:258][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-12.33.20:258][889]LogInit: FAudioDevice initialized.
+[2021.08.17-12.33.20:258][889]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-12.33.20:268][889]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-12.33.20:273][889]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-13.33.20
+[2021.08.17-12.33.20:274][889]LogWorld: Bringing up level for play took: 0.005195
+[2021.08.17-12.33.20:275][889]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2021.08.17-12.33.20:281][889]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-12.33.20:282][889]PIE: Server logged in
+[2021.08.17-12.33.20:284][889]PIE: Play in editor total start time 0.165 seconds.
+[2021.08.17-12.33.22:759][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.33.22:759][  9]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.33.22:759][  9]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.33.22:760][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.33.22:768][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-12.33.22:794][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.33.22:826][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-12.33.22:827][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.33.22:829][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.33.22:870][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.33.22:877][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.08.17-12.33.23:170][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2021.08.17-12.33.24:561][ 68]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.33.24:579][ 68]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.33.25:749][115]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.17-12.33.49:233][645]BlueprintLog: New page: Compile FPSHUD
+[2021.08.17-12.33.49:295][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.08.17-12.33.49:900][660]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/FPSHUD6B06B013410A5EBCE4C6CBBBAEB48269.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/FPSHUD.uasset'
+[2021.08.17-12.33.49:924][660]AssetCheck: New page: Asset Save: FPSHUD
+[2021.08.17-12.33.49:924][660]LogContentValidation: Display: Validating WidgetBlueprint /Game/ThirdPersonBP/Blueprints/FPSHUD.FPSHUD
+[2021.08.17-12.33.50:426][676]LogSlate: Window 'FPSHUD' being destroyed
+[2021.08.17-12.33.50:445][676]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.33.50:445][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.33.50:466][676]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.33.50:467][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.33.51:506][728]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-12.33.51:525][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-12.33.51:525][728]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 14:33:51)
+[2021.08.17-12.33.51:528][728]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.33.51:545][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017133s)
+[2021.08.17-12.33.51:547][728]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-12.33.51:547][728]LogPlayLevel: PIE: World Init took: (0.001587s)
+[2021.08.17-12.33.51:547][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018981s)
+[2021.08.17-12.33.51:582][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.08.17-12.33.51:585][728]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-12.33.51:585][728]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-12.33.51:585][728]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-12.33.51:585][728]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-12.33.51:599][728]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-12.33.51:599][728]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-12.33.51:621][728]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-12.33.51:622][728]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-12.33.51:622][728]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-12.33.51:622][728]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-12.33.51:622][728]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-12.33.51:622][728]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-12.33.51:622][728]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-12.33.51:644][728]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-12.33.51:644][728]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-12.33.51:644][728]LogInit: FAudioDevice initialized.
+[2021.08.17-12.33.51:644][728]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-12.33.51:658][728]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-12.33.51:662][728]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-13.33.51
+[2021.08.17-12.33.51:663][728]LogWorld: Bringing up level for play took: 0.003883
+[2021.08.17-12.33.51:663][728]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2021.08.17-12.33.51:667][728]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-12.33.51:668][728]PIE: Server logged in
+[2021.08.17-12.33.51:669][728]PIE: Play in editor total start time 0.149 seconds.
+[2021.08.17-12.33.59:912][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.33.59:912][206]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-12.33.59:912][206]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-12.33.59:914][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.33.59:939][206]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-12.33.59:992][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-12.34.00:045][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-12.34.00:047][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.34.00:049][206]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-12.34.00:115][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-12.34.00:126][206]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2021.08.17-12.34.00:421][207]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2021.08.17-12.34.01:739][272]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-12.34.01:762][272]LogSlate: Window 'Message Log' being destroyed
