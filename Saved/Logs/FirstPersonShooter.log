@@ -4005,3 +4005,1738 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Get SkeletalMesh1
 [2021.08.17-14.06.57:161][969]LogPlayLevel: Display: Destroying online subsystem :Context_112
 [2021.08.17-14.06.58:460][ 23]LogSlate: Window 'Message Log' being destroyed
 [2021.08.17-14.06.58:482][ 23]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.09.24:958][306]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.17-14.09.25:007][306]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.17-14.09.27:874][464]LogContentBrowser: Attempting asset rename: NewFolder -> Zombie
+[2021.08.17-14.09.28:034][464]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.17-14.10.36:365][ 46]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie_Character.fbx)
+[2021.08.17-14.10.36:442][ 46]LogFbx: Loading FBX Scene from C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie_Character.fbx
+[2021.08.17-14.10.36:588][ 46]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.17-14.11.43:684][ 46]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.17-14.11.43:808][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Glass : The relative matrices do not match
+[2021.08.17-14.11.43:808][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node FuzZombie : The relative matrices do not match
+[2021.08.17-14.11.43:808][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hair : The relative matrices do not match
+[2021.08.17-14.11.43:808][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyes : The relative matrices do not match
+[2021.08.17-14.11.43:809][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Glass : The relative matrices do not match
+[2021.08.17-14.11.43:809][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node FuzZombie : The relative matrices do not match
+[2021.08.17-14.11.43:810][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hair : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Eyes : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Glass : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node FuzZombie : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyes : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Glass : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node FuzZombie : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyes : The relative matrices do not match
+[2021.08.17-14.11.43:811][ 46]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.17-14.11.43:812][ 46]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Glass
+[2021.08.17-14.11.43:812][ 46]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.17-14.11.43:824][ 46]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/Zombie/glass_hair_M.glass_hair_M needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.17-14.11.43:842][ 46]LogMaterial: Display: Missing cached shader map for material glass_hair_M, compiling. 
+[2021.08.17-14.11.44:099][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2021.08.17-14.11.44:099][ 46]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2021.08.17-14.11.44:099][ 46]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.08.17-14.11.44:099][ 46]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.08.17-14.11.44:099][ 46]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2021.08.17-14.11.46:831][ 46]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2021.08.17-14.11.49:530][ 46]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2021.08.17-14.11.50:333][ 46]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2021.08.17-14.11.53:386][ 46]LogMaterial: Display: Missing cached shader map for material glass_hair_M, compiling. 
+[2021.08.17-14.11.53:588][ 46]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/Zombie/body_M.body_M needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.17-14.11.53:665][ 46]LogMaterial: Display: Missing cached shader map for material body_M, compiling. 
+[2021.08.17-14.11.54:009][ 46]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2021.08.17-14.11.56:526][ 46]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 80
+[2021.08.17-14.11.56:827][ 46]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2021.08.17-14.11.59:799][ 46]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie__normal
+[2021.08.17-14.12.00:131][ 46]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2021.08.17-14.12.00:456][ 46]LogMaterial: Display: Missing cached shader map for material body_M, compiling. 
+[2021.08.17-14.12.00:516][ 46]LogMaterial: Display: Material /Game/ThirdPersonBP/Blueprints/Zombie/glass_hair_M_ncl1_1.glass_hair_M_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2021.08.17-14.12.00:520][ 46]LogMaterial: Display: Missing cached shader map for material glass_hair_M_ncl1_1, compiling. 
+[2021.08.17-14.12.00:897][ 46]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2021.08.17-14.12.04:407][ 46]LogTexture: Display: Building textures: FuzZombie__specular (AutoDXT, 2048X2048)
+[2021.08.17-14.12.06:636][ 46]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 94
+[2021.08.17-14.12.06:665][ 46]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for FuzZombie__normal
+[2021.08.17-14.12.06:975][ 46]LogTexture: Display: Building textures: FuzZombie__normal (BC5, 2048X2048)
+[2021.08.17-14.12.07:586][ 46]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 84
+[2021.08.17-14.12.07:609][ 46]LogTexture: Display: Building textures: FuzZombie__diffuse (AutoDXT, 2048X2048)
+[2021.08.17-14.12.10:527][ 46]LogMaterial: Display: Missing cached shader map for material glass_hair_M_ncl1_1, compiling. 
+[2021.08.17-14.12.10:591][ 46]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 50
+[2021.08.17-14.12.10:636][ 46]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.08.17-14.12.11:236][ 46]LogSkeletalMesh: Section 0: Material=0, 426 triangles
+[2021.08.17-14.12.11:236][ 46]LogSkeletalMesh: Section 1: Material=1, 8883 triangles
+[2021.08.17-14.12.11:236][ 46]LogSkeletalMesh: Section 2: Material=2, 536 triangles
+[2021.08.17-14.12.11:320][ 46]LogSkeletalMesh: Building Skeletal Mesh Zombie_Character...
+[2021.08.17-14.12.11:843][ 46]LogSkeletalMesh: Section 0: Material=0, 426 triangles
+[2021.08.17-14.12.11:843][ 46]LogSkeletalMesh: Section 1: Material=1, 8883 triangles
+[2021.08.17-14.12.11:843][ 46]LogSkeletalMesh: Section 2: Material=2, 536 triangles
+[2021.08.17-14.12.11:885][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.57s] /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character.Zombie_Character
+[2021.08.17-14.12.11:917][ 46]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.12.11:917][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(0) Hips
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(1) Spine
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(2) Spine1
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(3) Spine2
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(4) Neck
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(5) Head
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2021.08.17-14.12.11:946][ 46]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(15) LeftHandRing1
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(16) LeftHandRing2
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(17) LeftHandRing3
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(18) LeftHandRing4
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(32) RightArm
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(34) RightHand
+[2021.08.17-14.12.11:947][ 46]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.08.17-14.12.11:948][ 46]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.08.17-14.12.11:948][ 46]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.08.17-14.12.11:948][ 46]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.08.17-14.12.11:948][ 46]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.08.17-14.12.11:948][ 46]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.08.17-14.12.11:948][ 46]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.17-14.12.11:949][ 46]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.17-14.12.11:950][ 46]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.17-14.12.11:950][ 46]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.17-14.12.11:950][ 46]LogFbx: SortedLinks :(0) Hips
+[2021.08.17-14.12.11:950][ 46]LogFbx: SortedLinks :(1) Spine
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(2) Spine1
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(3) Spine2
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(4) Neck
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(5) Head
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(15) LeftHandRing1
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(16) LeftHandRing2
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(17) LeftHandRing3
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(18) LeftHandRing4
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2021.08.17-14.12.11:951][ 46]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(32) RightArm
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(34) RightHand
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.17-14.12.11:952][ 46]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.17-14.12.11:953][ 46]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.17-14.12.11:953][ 46]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.17-14.12.11:953][ 46]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.17-14.12.11:953][ 46]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.17-14.12.11:953][ 46]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.17-14.12.11:957][ 46]LogFbx: Parsing AnimStack Take 001
+[2021.08.17-14.12.12:297][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_Take_001.Zombie_Character_Anim_Take_001
+[2021.08.17-14.12.12:298][ 46]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.17-14.12.12:372][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_mixamo_com.Zombie_Character_Anim_mixamo_com
+[2021.08.17-14.12.12:416][ 46]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'glass_hair_M' was renamed 'glass_hair_M_ncl1_1' 
+[2021.08.17-14.12.12:417][ 46]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.17-14.12.16:889][123]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 96
+[2021.08.17-14.12.24:466][280]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 86
+[2021.08.17-14.12.25:091][297]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.12.25:117][297]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.12.25:315][304]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 76
+[2021.08.17-14.12.28:505][368]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2021.08.17-14.12.37:968][566]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 56
+[2021.08.17-14.12.39:859][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 46
+[2021.08.17-14.12.41:922][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2021.08.17-14.12.43:904][729]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2021.08.17-14.12.49:456][898]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2021.08.17-14.12.51:881][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.08.17-14.12.53:635][ 22]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2021.08.17-14.12.53:673][ 23]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.08.17-14.12.54:465][ 47]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.08.17-14.12.56:055][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.08.17-14.12.56:816][116]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.08.17-14.12.57:278][130]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.08.17-14.13.24:147][264]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character.Zombie_Character
+[2021.08.17-14.13.24:166][264]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_92:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.14.04:377][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.08.17-14.14.04:435][569]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto58ED6040848D7F5EE2841DFBF5525C1B8.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2021.08.17-14.14.04:441][569]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.099
+[2021.08.17-14.14.04:441][569]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2021.08.17-14.14.04:442][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character] ([1] browsable assets)...
+[2021.08.17-14.14.04:465][569]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character.Zombie_Character]
+[2021.08.17-14.14.04:465][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character]
+[2021.08.17-14.14.04:597][569]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Auto58F95E8A0439F77B032E736ADBFD0C484.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Auto5.uasset'
+[2021.08.17-14.14.04:600][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton] ([1] browsable assets)...
+[2021.08.17-14.14.04:600][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton]
+[2021.08.17-14.14.04:613][569]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Skeleton_Auto5FAA7DAF14BC36931609858ACE7F1F614.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton_Auto5.uasset'
+[2021.08.17-14.14.04:616][569]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_PhysicsAsset] ([1] browsable assets)...
+[2021.08.17-14.14.04:639][569]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_PhysicsAsset.Zombie_Character_PhysicsAsset]
+[2021.08.17-14.14.04:639][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_PhysicsAsset]
+[2021.08.17-14.14.04:674][569]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_PhysicsAsset_Au8DFCA8554CA9155BBEA6408616DE94DA.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_PhysicsAsset_Auto5.uasset'
+[2021.08.17-14.14.04:676][569]LogFileHelpers: Auto-saving content packages took 0.234
+[2021.08.17-14.17.08:311][844]LogWorld: UWorld::CleanupWorld for World_92, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.08:312][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.10:227][876]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.08.17-14.17.10:263][876]LogWorld: UWorld::CleanupWorld for World_90, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.10:263][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.16:968][987]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Idle.fbx)
+[2021.08.17-14.17.17:026][987]LogFbx: Loading FBX Scene from C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Idle.fbx
+[2021.08.17-14.17.17:288][987]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.17-14.17.26:987][987]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.17-14.17.27:075][987]LogFbx: SortedLinks :(0) Hips
+[2021.08.17-14.17.27:075][987]LogFbx: SortedLinks :(1) Spine
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(2) Spine1
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(3) Spine2
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(4) Neck
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(5) Head
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(15) LeftHandRing1
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(16) LeftHandRing2
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(17) LeftHandRing3
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(18) LeftHandRing4
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(32) RightArm
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.17-14.17.27:076][987]LogFbx: SortedLinks :(34) RightHand
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.17-14.17.27:077][987]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.17-14.17.27:078][987]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.17-14.17.27:078][987]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.17-14.17.27:080][987]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.17-14.17.28:000][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Idle.Zombie_Idle
+[2021.08.17-14.17.28:000][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Idle.Zombie_Idle
+[2021.08.17-14.17.28:000][987]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Running.fbx)
+[2021.08.17-14.17.28:068][987]LogFbx: Loading FBX Scene from C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Running.fbx
+[2021.08.17-14.17.28:119][987]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(0) Hips
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(1) Spine
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(2) Spine1
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(3) Spine2
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(4) Neck
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(5) Head
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(15) LeftHandRing1
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(16) LeftHandRing2
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(17) LeftHandRing3
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(18) LeftHandRing4
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2021.08.17-14.17.28:122][987]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(32) RightArm
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(34) RightHand
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.17-14.17.28:123][987]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.17-14.17.28:124][987]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.17-14.17.28:308][987]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Walking.fbx)
+[2021.08.17-14.17.28:325][987]LogFbx: Loading FBX Scene from C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Walking.fbx
+[2021.08.17-14.17.28:373][987]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(0) Hips
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(1) Spine
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(2) Spine1
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(3) Spine2
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(4) Neck
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(5) Head
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2021.08.17-14.17.28:375][987]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(15) LeftHandRing1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(16) LeftHandRing2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(17) LeftHandRing3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(18) LeftHandRing4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(32) RightArm
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(34) RightHand
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.17-14.17.28:376][987]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.17-14.17.28:378][987]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.17-14.17.28:604][987]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Attack.fbx)
+[2021.08.17-14.17.28:626][987]LogFbx: Loading FBX Scene from C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\FPSAssets\Zombie\Zombie Attack.fbx
+[2021.08.17-14.17.28:678][987]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.17-14.17.28:680][987]LogFbx: SortedLinks :(0) Hips
+[2021.08.17-14.17.28:680][987]LogFbx: SortedLinks :(1) Spine
+[2021.08.17-14.17.28:680][987]LogFbx: SortedLinks :(2) Spine1
+[2021.08.17-14.17.28:680][987]LogFbx: SortedLinks :(3) Spine2
+[2021.08.17-14.17.28:680][987]LogFbx: SortedLinks :(4) Neck
+[2021.08.17-14.17.28:680][987]LogFbx: SortedLinks :(5) Head
+[2021.08.17-14.17.28:680][987]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(8) LeftArm
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(10) LeftHand
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(11) LeftHandPinky1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(12) LeftHandPinky2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(13) LeftHandPinky3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(14) LeftHandPinky4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(15) LeftHandRing1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(16) LeftHandRing2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(17) LeftHandRing3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(18) LeftHandRing4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(23) LeftHandIndex1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(24) LeftHandIndex2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(25) LeftHandIndex3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(26) LeftHandIndex4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(27) LeftHandThumb1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(28) LeftHandThumb2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(29) LeftHandThumb3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(30) LeftHandThumb4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(31) RightShoulder
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(32) RightArm
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(33) RightForeArm
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(34) RightHand
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(56) LeftLeg
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(57) LeftFoot
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(61) RightLeg
+[2021.08.17-14.17.28:681][987]LogFbx: SortedLinks :(62) RightFoot
+[2021.08.17-14.17.28:682][987]LogFbx: SortedLinks :(63) RightToeBase
+[2021.08.17-14.17.28:682][987]LogFbx: SortedLinks :(64) RightToe_End
+[2021.08.17-14.17.28:683][987]LogFbx: Parsing AnimStack mixamo.com
+[2021.08.17-14.17.30:064][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Running.Zombie_Running
+[2021.08.17-14.17.30:064][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Walking.Zombie_Walking
+[2021.08.17-14.17.30:065][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Attack.Zombie_Attack
+[2021.08.17-14.17.30:130][988]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Attack.Zombie_Attack
+[2021.08.17-14.17.36:616][196]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Attack.Zombie_Attack
+[2021.08.17-14.17.36:743][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_93:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.17.38:944][196]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.17.41:208][258]LogSlate: Window 'Zombie_Attack' being destroyed
+[2021.08.17-14.17.41:238][258]LogSlate: Window 'Zombie_Attack' being destroyed
+[2021.08.17-14.17.41:241][258]LogWorld: UWorld::CleanupWorld for World_93, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.41:241][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.41:281][258]LogWorld: UWorld::CleanupWorld for World_95, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.41:282][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.41:459][258]LogWorld: UWorld::CleanupWorld for World_94, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.41:459][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.43:513][317]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Idle.Zombie_Idle
+[2021.08.17-14.17.43:522][317]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_96:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.17.44:122][317]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.17.46:678][381]LogSlate: Window 'Zombie_Idle' being destroyed
+[2021.08.17-14.17.46:701][381]LogSlate: Window 'Zombie_Idle' being destroyed
+[2021.08.17-14.17.46:703][381]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.46:703][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.46:742][381]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.46:742][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.46:893][381]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.46:893][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.48:186][426]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Running.Zombie_Running
+[2021.08.17-14.17.48:192][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.17.48:821][426]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.17.50:903][481]LogSlate: Window 'Zombie_Running' being destroyed
+[2021.08.17-14.17.50:925][481]LogSlate: Window 'Zombie_Running' being destroyed
+[2021.08.17-14.17.50:928][481]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.50:928][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.50:963][481]LogWorld: UWorld::CleanupWorld for World_101, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.50:963][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.51:129][481]LogWorld: UWorld::CleanupWorld for World_100, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.51:129][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.51:910][504]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Walking.Zombie_Walking
+[2021.08.17-14.17.51:918][504]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_102:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.17.52:539][504]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.17.54:271][556]LogSlate: Window 'Zombie_Walking' being destroyed
+[2021.08.17-14.17.54:291][556]LogSlate: Window 'Zombie_Walking' being destroyed
+[2021.08.17-14.17.54:293][556]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.54:294][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.54:329][556]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.54:330][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.17.54:486][556]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.17.54:486][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.18.17:814][516]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.08.17-14.18.17:858][516]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2021.08.17-14.18.17:933][516]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2021.08.17-14.18.27:056][829]LogContentBrowser: Attempting asset rename: NewBlendSpace -> WalkRun_BS
+[2021.08.17-14.18.27:061][829]LogContentBrowser: End creating deferred item NewBlendSpace
+[2021.08.17-14.20.25:427][225]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.20.25:435][225]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_105:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.20.26:987][225]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.21.42:470][613]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/WalkRun_BSE108CDF04CEEE5EB5BB2EE99E1113B64.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.uasset'
+[2021.08.17-14.21.42:507][613]AssetCheck: New page: Asset Save: WalkRun_BS
+[2021.08.17-14.21.42:507][613]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.21.43:838][653]LogSlate: Window 'WalkRun_BS' being destroyed
+[2021.08.17-14.21.43:856][653]LogWorld: UWorld::CleanupWorld for World_105, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.21.43:856][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.21.44:079][653]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.21.44:079][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.21.58:407][277]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.08.17-14.21.58:513][277]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.17-14.22.16:114][277]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.08.17-14.22.16:134][277]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.08.17-14.22.16:169][277]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.08.17-14.22.33:252][857]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> Zombie_Character_Anim_BP
+[2021.08.17-14.22.33:271][857]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.08.17-14.22.34:933][912]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.Zombie_Character_Anim_BP
+[2021.08.17-14.22.34:943][912]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_109:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.22.36:388][912]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.27.59:209][670]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Animation/Persona/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2021.08.17-14.29.07:660][ 23]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.29.08:699][ 23]LogUObjectHash: Compacting FUObjectHashTables data took  11.15ms
+[2021.08.17-14.29.09:337][ 33]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Anim_BPBE907B9349D91A238640C3987214CD6D.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.uasset'
+[2021.08.17-14.29.09:405][ 33]AssetCheck: New page: Asset Save: Zombie_Character_Anim_BP
+[2021.08.17-14.29.09:405][ 33]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.Zombie_Character_Anim_BP
+[2021.08.17-14.29.19:271][307]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.29.19:607][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2021.08.17-14.29.55:020][378]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.29.55:158][378]LogUObjectHash: Compacting FUObjectHashTables data took   8.38ms
+[2021.08.17-14.29.55:556][382]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Anim_BPCAB264114721098A7D2C49942DDDC672.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.uasset'
+[2021.08.17-14.29.55:578][382]AssetCheck: New page: Asset Save: Zombie_Character_Anim_BP
+[2021.08.17-14.29.55:578][382]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.Zombie_Character_Anim_BP
+[2021.08.17-14.29.56:663][417]LogSlate: Window 'Zombie_Character_Anim_BP' being destroyed
+[2021.08.17-14.29.56:706][417]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.29.56:706][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.29.56:721][417]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.29.56:721][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.29.57:013][417]LogWorld: UWorld::CleanupWorld for World_110, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.29.57:013][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.29.59:987][569]LogEditorViewport: Clicking on Actor (LMB): SimpleAI_C (SimpleAI3)
+[2021.08.17-14.30.03:064][701]LogEditorViewport: Clicking on Actor (context menu): SimpleAI_C (SimpleAI3)
+[2021.08.17-14.30.08:444][892]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.30.20:082][110]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Zombie_Character_Skeleton, removing AnimBP from actor.
+[2021.08.17-14.30.20:083][110]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Zombie_Character_Skeleton, removing AnimBP from actor.
+[2021.08.17-14.30.20:084][110]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Zombie_Character_Skeleton, removing AnimBP from actor.
+[2021.08.17-14.30.20:085][110]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Zombie_Character_Skeleton, removing AnimBP from actor.
+[2021.08.17-14.30.20:085][110]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Zombie_Character_Skeleton, removing AnimBP from actor.
+[2021.08.17-14.30.20:085][110]LogAnimation: Warning: AnimBP ThirdPerson_AnimBP_C is incompatible with skeleton Zombie_Character_Skeleton, removing AnimBP from actor.
+[2021.08.17-14.30.31:626][213]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.08.17-14.30.38:871][325]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-14.30.39:282][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.08.17-14.30.40:695][360]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAI0DA02B6747F65180DF116A88B08AC639.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-14.30.40:763][360]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-14.30.40:763][360]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.30.41:583][375]LogSlate: Window 'SimpleAI' being destroyed
+[2021.08.17-14.30.41:623][375]LogWorld: UWorld::CleanupWorld for World_111, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.30.41:623][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.30.46:271][592]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-14.30.46:291][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-14.30.46:291][592]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 16:30:46)
+[2021.08.17-14.30.46:294][592]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.30.46:320][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025891s)
+[2021.08.17-14.30.46:322][592]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-14.30.46:322][592]LogPlayLevel: PIE: World Init took: (0.002212s)
+[2021.08.17-14.30.46:323][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028968s)
+[2021.08.17-14.30.46:365][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.08.17-14.30.46:372][592]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.08.17-14.30.46:372][592]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-14.30.46:372][592]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-14.30.46:372][592]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-14.30.46:372][592]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-14.30.46:373][592]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-14.30.46:373][592]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-14.30.46:373][592]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-14.30.46:373][592]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-14.30.46:373][592]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-14.30.46:373][592]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-14.30.46:389][592]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-14.30.46:389][592]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-14.30.46:410][592]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-14.30.46:410][592]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-14.30.46:410][592]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-14.30.46:410][592]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-14.30.46:411][592]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-14.30.46:411][592]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-14.30.46:411][592]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-14.30.46:436][592]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-14.30.46:436][592]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-14.30.46:436][592]LogInit: FAudioDevice initialized.
+[2021.08.17-14.30.46:436][592]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-14.30.46:445][592]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-14.30.46:451][592]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-15.30.46
+[2021.08.17-14.30.46:452][592]LogWorld: Bringing up level for play took: 0.004977
+[2021.08.17-14.30.46:452][592]LogOnline: OSS: Creating online subsystem instance for: :Context_134
+[2021.08.17-14.30.46:457][592]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-14.30.46:458][592]PIE: Server logged in
+[2021.08.17-14.30.46:459][592]PIE: Play in editor total start time 0.175 seconds.
+[2021.08.17-14.31.01:436][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.31.01:437][427]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.31.01:437][427]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.31.01:438][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.31.01:459][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-14.31.01:588][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.31.01:649][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-14.31.01:650][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.31.01:652][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.31.01:724][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.31.01:736][427]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2021.08.17-14.31.02:059][428]LogPlayLevel: Display: Destroying online subsystem :Context_134
+[2021.08.17-14.31.03:155][468]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.31.03:175][468]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.31.28:786][618]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2021.08.17-14.31.28:922][618]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto66E62CBE644705A9559589281F7BE572D.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2021.08.17-14.31.28:926][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.206
+[2021.08.17-14.31.28:926][618]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.206
+[2021.08.17-14.31.54:323][858]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.31.54:331][858]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_112:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.31.55:294][858]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.32.06:917][199]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/WalkRun_BSF957028645875897FF3A92BFC5A8F9D3.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.uasset'
+[2021.08.17-14.32.06:941][199]AssetCheck: New page: Asset Save: WalkRun_BS
+[2021.08.17-14.32.06:942][199]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.32.27:531][352]LogSlate: Window 'WalkRun_BS' being destroyed
+[2021.08.17-14.32.27:566][352]LogWorld: UWorld::CleanupWorld for World_112, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.32.27:567][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.32.27:822][352]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.32.27:822][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.32.37:656][649]LogEditorViewport: Clicking on Actor (LMB): SimpleAI_C (SimpleAI3)
+[2021.08.17-14.32.38:085][665]LogEditorViewport: Clicking on Actor (context menu): SimpleAI_C (SimpleAI3)
+[2021.08.17-14.32.40:142][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.33.30:092][370]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-14.33.30:517][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.08.17-14.33.31:364][382]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAIBE8D1E054DAE60D24F9FDC9921CE8CFE.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-14.33.31:398][382]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-14.33.31:398][382]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.33.32:249][405]LogSlate: Window 'SimpleAI' being destroyed
+[2021.08.17-14.33.32:279][405]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.33.32:279][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.33.33:376][441]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-14.33.33:394][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-14.33.33:394][441]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 16:33:33)
+[2021.08.17-14.33.33:396][441]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.33.33:414][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017926s)
+[2021.08.17-14.33.33:416][441]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-14.33.33:416][441]LogPlayLevel: PIE: World Init took: (0.001876s)
+[2021.08.17-14.33.33:417][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.020140s)
+[2021.08.17-14.33.33:454][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.08.17-14.33.33:457][441]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.08.17-14.33.33:457][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-14.33.33:457][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-14.33.33:457][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-14.33.33:457][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-14.33.33:457][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-14.33.33:457][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-14.33.33:457][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-14.33.33:457][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-14.33.33:458][441]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-14.33.33:458][441]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-14.33.33:472][441]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-14.33.33:472][441]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-14.33.33:497][441]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-14.33.33:497][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-14.33.33:498][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-14.33.33:498][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-14.33.33:498][441]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-14.33.33:498][441]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-14.33.33:498][441]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-14.33.33:523][441]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-14.33.33:523][441]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-14.33.33:523][441]LogInit: FAudioDevice initialized.
+[2021.08.17-14.33.33:523][441]LogAudio: Display: Audio Device (ID: 35) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-14.33.33:532][441]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-14.33.33:537][441]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-15.33.33
+[2021.08.17-14.33.33:539][441]LogWorld: Bringing up level for play took: 0.005644
+[2021.08.17-14.33.33:539][441]LogOnline: OSS: Creating online subsystem instance for: :Context_138
+[2021.08.17-14.33.33:548][441]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-14.33.33:549][441]PIE: Server logged in
+[2021.08.17-14.33.33:550][441]PIE: Play in editor total start time 0.163 seconds.
+[2021.08.17-14.33.45:431][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.33.45:431][ 58]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.33.45:431][ 58]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.33.45:432][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.33.45:447][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-14.33.45:501][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.33.45:525][ 58]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-14.33.45:525][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.33.45:526][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.33.45:550][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.33.45:556][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.08.17-14.33.45:956][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_138
+[2021.08.17-14.33.47:221][105]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.33.47:236][105]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.33.58:783][485]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.33.58:794][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_115:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.33.59:921][485]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.35.14:881][110]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/WalkRun_BS85F080C249C7533239422BB6862EC0B0.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.uasset'
+[2021.08.17-14.35.15:030][110]AssetCheck: New page: Asset Save: WalkRun_BS
+[2021.08.17-14.35.15:030][110]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.35.15:374][119]LogSlate: Window 'WalkRun_BS' being destroyed
+[2021.08.17-14.35.15:393][119]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.35.15:393][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.35.15:546][119]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.35.15:546][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.35.16:325][158]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-14.35.16:343][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-14.35.16:343][158]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 16:35:16)
+[2021.08.17-14.35.16:345][158]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.35.16:361][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015615s)
+[2021.08.17-14.35.16:363][158]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-14.35.16:363][158]LogPlayLevel: PIE: World Init took: (0.002248s)
+[2021.08.17-14.35.16:364][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018141s)
+[2021.08.17-14.35.16:407][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.08.17-14.35.16:415][158]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-14.35.16:416][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-14.35.16:416][158]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-14.35.16:416][158]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-14.35.16:430][158]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-14.35.16:430][158]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-14.35.16:451][158]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-14.35.16:451][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-14.35.16:452][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-14.35.16:452][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-14.35.16:452][158]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-14.35.16:452][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-14.35.16:452][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-14.35.16:483][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-14.35.16:483][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-14.35.16:483][158]LogInit: FAudioDevice initialized.
+[2021.08.17-14.35.16:483][158]LogAudio: Display: Audio Device (ID: 36) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-14.35.16:503][158]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-14.35.16:519][158]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-15.35.16
+[2021.08.17-14.35.16:521][158]LogWorld: Bringing up level for play took: 0.014594
+[2021.08.17-14.35.16:522][158]LogOnline: OSS: Creating online subsystem instance for: :Context_141
+[2021.08.17-14.35.16:534][158]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-14.35.16:536][158]PIE: Server logged in
+[2021.08.17-14.35.16:539][158]PIE: Play in editor total start time 0.202 seconds.
+[2021.08.17-14.35.25:963][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.35.25:963][703]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.35.25:964][703]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.35.25:965][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.35.25:976][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-14.35.26:029][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.35.26:057][703]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-14.35.26:057][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.35.26:059][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.35.26:086][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.35.26:090][703]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.08.17-14.35.26:297][704]LogPlayLevel: Display: Destroying online subsystem :Context_141
+[2021.08.17-14.35.27:970][774]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.35.27:981][774]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.36.06:901][913]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.36.06:906][913]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_117:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.36.07:872][913]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.36.20:197][308]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/WalkRun_BSD61A6D8C44557580DEA3C49EF0F98AA8.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.uasset'
+[2021.08.17-14.36.20:222][308]AssetCheck: New page: Asset Save: WalkRun_BS
+[2021.08.17-14.36.20:222][308]LogContentValidation: Display: Validating BlendSpace /Game/ThirdPersonBP/Blueprints/Zombie/WalkRun_BS.WalkRun_BS
+[2021.08.17-14.37.45:552][256]LogSlate: Window 'WalkRun_BS' being destroyed
+[2021.08.17-14.37.45:583][256]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.37.45:584][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.37.45:782][256]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.37.45:783][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.37.48:162][302]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.Zombie_Character_Anim_BP
+[2021.08.17-14.37.48:187][302]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.38.46:553][240]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.38.46:628][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.08.17-14.38.48:301][285]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Anim_BPECEE9E6D4F0C4626EC3F2986791401F7.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.uasset'
+[2021.08.17-14.38.48:333][285]AssetCheck: New page: Asset Save: Zombie_Character_Anim_BP
+[2021.08.17-14.38.48:333][285]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.Zombie_Character_Anim_BP
+[2021.08.17-14.38.52:082][374]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-14.38.52:098][374]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-14.38.52:099][374]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 16:38:52)
+[2021.08.17-14.38.52:101][374]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.38.52:119][374]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018349s)
+[2021.08.17-14.38.52:122][374]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-14.38.52:123][374]LogPlayLevel: PIE: World Init took: (0.003177s)
+[2021.08.17-14.38.52:123][374]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021971s)
+[2021.08.17-14.38.52:164][374]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2021.08.17-14.38.52:167][374]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2021.08.17-14.38.52:167][374]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-14.38.52:167][374]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-14.38.52:167][374]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-14.38.52:167][374]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-14.38.52:167][374]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-14.38.52:167][374]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-14.38.52:167][374]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-14.38.52:167][374]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-14.38.52:168][374]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-14.38.52:168][374]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-14.38.52:183][374]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-14.38.52:183][374]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-14.38.52:207][374]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-14.38.52:207][374]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-14.38.52:207][374]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-14.38.52:207][374]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-14.38.52:207][374]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-14.38.52:208][374]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-14.38.52:208][374]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-14.38.52:229][374]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-14.38.52:229][374]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-14.38.52:229][374]LogInit: FAudioDevice initialized.
+[2021.08.17-14.38.52:229][374]LogAudio: Display: Audio Device (ID: 37) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-14.38.52:241][374]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-14.38.52:245][374]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-15.38.52
+[2021.08.17-14.38.52:246][374]LogWorld: Bringing up level for play took: 0.004540
+[2021.08.17-14.38.52:247][374]LogOnline: OSS: Creating online subsystem instance for: :Context_147
+[2021.08.17-14.38.52:251][374]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-14.38.52:252][374]PIE: Server logged in
+[2021.08.17-14.38.52:253][374]PIE: Play in editor total start time 0.16 seconds.
+[2021.08.17-14.39.08:329][ 18]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.08:329][ 18]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.08:546][ 26]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.08:546][ 26]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.08:546][ 26]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.08:763][ 35]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.09:189][ 52]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.09:189][ 52]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.09:214][ 53]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.09:462][ 63]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.09:462][ 63]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.09:492][ 64]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.09:629][ 69]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.09:630][ 69]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.09:654][ 70]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.09:835][ 77]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.09:835][ 77]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.09:867][ 78]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.10:069][ 85]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.10:069][ 85]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.10:103][ 86]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.10:316][ 93]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.10:316][ 93]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.10:325][ 93]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.11:180][124]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.11:180][124]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.39.11:346][129]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.39.11:622][139]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.39.11:755][143]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	PainVolume_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.PainVolume_2
+	Function /Game/ThirdPersonBP/Blueprints/PainVolume.PainVolume_C:ExecuteUbergraph_PainVolume:0055
+[2021.08.17-14.39.11:755][143]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  PainVolume Function:  Execute Ubergraph Pain Volume Graph:  EventGraph Node:  Take Damage 5%
+[2021.08.17-14.39.13:188][197]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:188][197]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:263][200]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:263][200]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:263][200]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.13:385][205]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:385][205]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:385][205]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.13:385][205]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.13:486][209]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:486][209]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:513][210]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.13:587][213]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:588][213]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:614][214]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.13:689][217]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:689][217]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:715][218]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.13:791][221]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:791][221]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:818][222]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.13:897][225]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.13:897][225]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.13:927][226]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.14:011][229]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.14:011][229]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-14.39.14:041][230]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-14.39.14:113][233]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-14.39.15:936][304]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-14.39.15:936][304]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-14.39.24:352][646]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-14.39.25:661][700]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-14.39.25:902][710]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-14.39.26:044][716]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-14.39.26:504][734]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-14.39.26:954][753]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-14.39.28:815][828]LogBlueprintUserMessages: [M4A1_Weapon_C_0] Full Ammo
+[2021.08.17-14.39.31:844][951]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	M4A1_Weapon_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.M4A1_Weapon_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon_C:Reload:024C
+[2021.08.17-14.39.31:844][951]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  M4A1_Weapon Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-14.39.35:669][109]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	M4A1_Weapon_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.M4A1_Weapon_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon_C:Reload:024C
+[2021.08.17-14.39.35:669][109]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  M4A1_Weapon Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-14.39.37:725][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.39.37:725][192]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.39.37:726][192]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.39.37:727][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.39.37:753][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-14.39.37:874][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.39.37:931][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-14.39.37:932][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.39.37:934][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.39.37:993][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.39.38:004][192]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.08.17-14.39.38:415][193]LogPlayLevel: Display: Destroying online subsystem :Context_147
+[2021.08.17-14.39.39:671][236]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.39.39:688][236]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.39.40:696][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.08.17-14.39.40:740][269]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMapA0DE39B6412D6BB5856177B4E5B91024.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.08.17-14.39.41:221][269]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_BuiltData29CF238543B9F9EFB2227A9521785087.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.08.17-14.39.41:271][269]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.17-14.39.41:271][269]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.08.17-14.39.41:271][269]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.08.17-14.40.28:848][733]LogSlate: Window 'Zombie_Character_Anim_BP' being destroyed
+[2021.08.17-14.40.28:872][733]LogWorld: UWorld::CleanupWorld for World_120, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.40.28:872][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.40.28:893][733]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.40.28:893][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.40.29:233][733]LogWorld: UWorld::CleanupWorld for World_121, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.40.29:233][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.43.15:139][651]LogEditorViewport: Clicking on Actor (context menu): SimpleAI_C (SimpleAI3)
+[2021.08.17-14.43.17:107][708]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.44.14:812][339]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-14.44.15:007][339]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.08.17-14.44.30:739][610]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAIE99340B1401556CE9C2C5987A80BC53C.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-14.44.30:767][610]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-14.44.30:768][610]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.44.44:909][ 84]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.Zombie_Character_Anim_BP
+[2021.08.17-14.44.44:931][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_124:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-14.45.29:914][442]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.17-14.48.17:021][ 10]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.48.17:037][ 10]LogBlueprint: Warning: [AssetLog] C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\Content\ThirdPersonBP\Blueprints\Zombie\Zombie_Character_Anim_BP.uasset: [Compiler] Movement to Attacking  will never be taken, please connect something to  Can Enter Transition
+[2021.08.17-14.48.17:105][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.08.17-14.49.15:970][740]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.49.15:983][740]LogBlueprint: Warning: [AssetLog] C:\Users\james\OneDrive\Documents\unreal Dev\Youtube Tutorials\FPS Tutorial\FirstPersonShooter\Content\ThirdPersonBP\Blueprints\Zombie\Zombie_Character_Anim_BP.uasset: [Compiler] Movement to Attacking  will never be taken, please connect something to  Can Enter Transition
+[2021.08.17-14.49.16:048][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.08.17-14.49.54:710][647]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.49.54:794][647]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.08.17-14.50.52:154][379]BlueprintLog: New page: Compile Zombie_Character_Anim_BP
+[2021.08.17-14.50.52:242][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.08.17-14.51.05:103][736]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Anim_BP9173077A44AA12F3D5E01F9E8961C286.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.uasset'
+[2021.08.17-14.51.05:158][736]AssetCheck: New page: Asset Save: Zombie_Character_Anim_BP
+[2021.08.17-14.51.05:158][736]LogContentValidation: Display: Validating AnimBlueprint /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Anim_BP.Zombie_Character_Anim_BP
+[2021.08.17-14.51.05:490][742]LogWorld: UWorld::CleanupWorld for World_124, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.51.05:490][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.51.05:502][742]LogWorld: UWorld::CleanupWorld for World_123, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.51.05:502][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.51.05:707][742]LogWorld: UWorld::CleanupWorld for World_125, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.51.05:707][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.53.40:190][554]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-14.53.40:451][554]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2021.08.17-14.53.41:616][573]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAIB04209AB4B51CE8671F51DBDEFD3A9B4.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-14.53.41:637][573]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-14.53.41:637][573]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.54.01:378][159]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-14.54.01:396][159]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-14.54.01:396][159]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 16:54:01)
+[2021.08.17-14.54.01:424][159]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.54.01:447][159]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022655s)
+[2021.08.17-14.54.01:449][159]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-14.54.01:450][159]LogPlayLevel: PIE: World Init took: (0.003110s)
+[2021.08.17-14.54.01:450][159]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026194s)
+[2021.08.17-14.54.01:499][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.08.17-14.54.01:503][159]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2021.08.17-14.54.01:503][159]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-14.54.01:503][159]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-14.54.01:504][159]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-14.54.01:504][159]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-14.54.01:504][159]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-14.54.01:504][159]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-14.54.01:504][159]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-14.54.01:504][159]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-14.54.01:504][159]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-14.54.01:504][159]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-14.54.01:518][159]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-14.54.01:519][159]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-14.54.01:540][159]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-14.54.01:541][159]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-14.54.01:541][159]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-14.54.01:541][159]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-14.54.01:541][159]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-14.54.01:541][159]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-14.54.01:541][159]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-14.54.01:562][159]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-14.54.01:562][159]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-14.54.01:562][159]LogInit: FAudioDevice initialized.
+[2021.08.17-14.54.01:562][159]LogAudio: Display: Audio Device (ID: 38) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-14.54.01:570][159]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-14.54.01:574][159]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-15.54.01
+[2021.08.17-14.54.01:575][159]LogWorld: Bringing up level for play took: 0.004316
+[2021.08.17-14.54.01:575][159]LogOnline: OSS: Creating online subsystem instance for: :Context_152
+[2021.08.17-14.54.01:580][159]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-14.54.01:581][159]PIE: Server logged in
+[2021.08.17-14.54.01:582][159]PIE: Play in editor total start time 0.191 seconds.
+[2021.08.17-14.54.19:599][218]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-14.54.19:600][218]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-14.54.19:617][219]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-14.54.19:617][219]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-14.54.19:850][233]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-14.54.19:967][240]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-14.54.50:930][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.54.50:930][ 39]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.54.50:930][ 39]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.54.50:931][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.54.50:958][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-14.54.51:042][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.54.51:083][ 39]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-14.54.51:084][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.54.51:086][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.54.51:131][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.54.51:139][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.08.17-14.54.51:419][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_152
+[2021.08.17-14.54.53:163][114]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.54.53:179][114]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.55.04:463][383]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-14.55.04:701][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.08.17-14.55.05:441][396]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAI0470ACA84FCC2857375686AE5F91F2EF.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-14.55.05:472][396]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-14.55.05:472][396]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.55.08:839][494]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAIFB0479A5463955A85129438AD87B8CFC.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-14.55.08:859][494]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-14.55.08:859][494]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-14.55.11:600][590]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-14.55.11:619][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-14.55.11:619][590]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 16:55:11)
+[2021.08.17-14.55.11:623][590]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.55.11:646][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022618s)
+[2021.08.17-14.55.11:647][590]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-14.55.11:648][590]LogPlayLevel: PIE: World Init took: (0.002259s)
+[2021.08.17-14.55.11:648][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025159s)
+[2021.08.17-14.55.11:697][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.08.17-14.55.11:700][590]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2021.08.17-14.55.11:700][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-14.55.11:700][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-14.55.11:700][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-14.55.11:700][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-14.55.11:700][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-14.55.11:701][590]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-14.55.11:701][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-14.55.11:701][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-14.55.11:701][590]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-14.55.11:701][590]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-14.55.11:714][590]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-14.55.11:714][590]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-14.55.11:735][590]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-14.55.11:736][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-14.55.11:736][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-14.55.11:736][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-14.55.11:738][590]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-14.55.11:738][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-14.55.11:738][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-14.55.11:758][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-14.55.11:758][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-14.55.11:758][590]LogInit: FAudioDevice initialized.
+[2021.08.17-14.55.11:758][590]LogAudio: Display: Audio Device (ID: 39) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-14.55.11:772][590]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-14.55.11:777][590]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-15.55.11
+[2021.08.17-14.55.11:778][590]LogWorld: Bringing up level for play took: 0.004233
+[2021.08.17-14.55.11:778][590]LogOnline: OSS: Creating online subsystem instance for: :Context_153
+[2021.08.17-14.55.11:783][590]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-14.55.11:784][590]PIE: Server logged in
+[2021.08.17-14.55.11:785][590]PIE: Play in editor total start time 0.173 seconds.
+[2021.08.17-14.55.16:351][828]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-14.55.16:352][828]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-14.55.16:538][838]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-14.55.38:181][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.55.38:183][  9]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-14.55.38:183][  9]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-14.55.38:184][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.55.38:237][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-14.55.38:371][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-14.55.38:429][  9]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-14.55.38:430][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.55.38:432][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-14.55.38:498][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-14.55.38:508][  9]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2021.08.17-14.55.38:932][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_153
+[2021.08.17-14.55.40:048][ 53]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.55.40:063][ 53]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-14.57.22:780][558]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2021.08.17-14.57.23:001][558]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto7228B5148465EBCAD6E55A998C08D23D7.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2021.08.17-14.57.23:013][558]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.302
+[2021.08.17-14.57.23:013][558]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.302
+[2021.08.17-14.57.23:015][558]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/SimpleAI] ([1] browsable assets)...
+[2021.08.17-14.57.23:056][558]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI]
+[2021.08.17-14.57.23:056][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/SimpleAI]
+[2021.08.17-14.57.23:187][558]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAI_Auto73F7E33474EBAE1D85FC7CD869B16ADF0.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/SimpleAI_Auto7.uasset'
+[2021.08.17-14.57.23:193][558]LogFileHelpers: Auto-saving content packages took 0.179
+[2021.08.17-14.58.38:202][769]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-14.58.38:656][769]LogUObjectHash: Compacting FUObjectHashTables data took   9.15ms
+[2021.08.17-15.01.46:440][187]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-15.01.46:658][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.08.17-15.01.47:539][207]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAIFB2E29D94EB6F2A3862940B52A19A9F6.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-15.01.47:566][207]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-15.01.47:566][207]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-15.01.59:378][665]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-15.01.59:420][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-15.01.59:421][665]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 17:01:59)
+[2021.08.17-15.01.59:424][665]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-15.01.59:480][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055413s)
+[2021.08.17-15.01.59:483][665]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-15.01.59:484][665]LogPlayLevel: PIE: World Init took: (0.003470s)
+[2021.08.17-15.01.59:484][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.059460s)
+[2021.08.17-15.01.59:533][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.08.17-15.01.59:536][665]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2021.08.17-15.01.59:536][665]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-15.01.59:536][665]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-15.01.59:536][665]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-15.01.59:536][665]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-15.01.59:536][665]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-15.01.59:536][665]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-15.01.59:537][665]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-15.01.59:537][665]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-15.01.59:537][665]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-15.01.59:537][665]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-15.01.59:551][665]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-15.01.59:551][665]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-15.01.59:571][665]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-15.01.59:572][665]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-15.01.59:572][665]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-15.01.59:572][665]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-15.01.59:572][665]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-15.01.59:572][665]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-15.01.59:572][665]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-15.01.59:591][665]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-15.01.59:592][665]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-15.01.59:592][665]LogInit: FAudioDevice initialized.
+[2021.08.17-15.01.59:592][665]LogAudio: Display: Audio Device (ID: 40) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-15.01.59:603][665]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-15.01.59:608][665]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-16.01.59
+[2021.08.17-15.01.59:608][665]LogWorld: Bringing up level for play took: 0.004033
+[2021.08.17-15.01.59:609][665]LogOnline: OSS: Creating online subsystem instance for: :Context_154
+[2021.08.17-15.01.59:614][665]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-15.01.59:615][665]PIE: Server logged in
+[2021.08.17-15.01.59:615][665]PIE: Play in editor total start time 0.21 seconds.
+[2021.08.17-15.02.02:317][819]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.02:317][819]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.02:345][820]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.02:415][824]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.02:415][824]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.02:433][825]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.02:517][830]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.02:517][830]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.02:534][831]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.02:619][836]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.02:619][836]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.02:638][837]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.02:721][842]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.02:721][842]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.02:741][843]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.02:828][848]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.02:828][848]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.02:847][849]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.02:932][854]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.02:932][854]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.02:949][855]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.03:353][878]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.03:353][878]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.03:369][879]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.03:447][883]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.03:447][883]LogBlueprintUserMessages: [SimpleAI_2] Cannot See player
+[2021.08.17-15.02.03:467][884]LogBlueprintUserMessages: [SimpleAI_2] Can see player
+[2021.08.17-15.02.03:554][889]LogBlueprintUserMessages: [SimpleAI_2] hit guy
+[2021.08.17-15.02.05:091][977]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-15.02.05:091][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-15.02.09:692][248]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.09:693][248]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.09:776][253]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.09:776][253]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.09:776][253]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.09:843][257]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.09:859][258]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.09:859][258]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.09:943][263]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.09:943][263]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.09:943][263]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.09:976][265]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.09:976][265]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:043][269]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.10:043][269]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.10:043][269]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.10:059][270]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:059][270]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:060][270]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:129][274]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.10:130][274]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.10:130][274]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.10:147][275]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:147][275]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:147][275]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:222][279]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.10:222][279]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.10:223][279]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.10:223][279]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:223][279]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:223][279]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:239][280]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:239][280]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:239][280]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:307][284]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.10:307][284]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.10:307][284]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.10:326][285]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:326][285]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:326][285]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:344][286]LogBlueprintUserMessages: [SimpleAI3_5] Can see player
+[2021.08.17-15.02.10:361][287]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:410][290]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.10:410][290]LogBlueprintUserMessages: [SimpleAI3_5] Cannot See player
+[2021.08.17-15.02.10:411][290]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:411][290]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:498][295]LogBlueprintUserMessages: [SimpleAI3_5] hit guy
+[2021.08.17-15.02.10:499][295]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:499][295]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:499][295]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:588][300]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.10:588][300]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.02.10:589][300]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.02.10:689][306]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.02.12:279][401]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-15.02.12:279][401]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-15.02.14:850][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-15.02.14:850][552]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-15.02.14:851][552]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.02.14:851][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.02.14:902][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-15.02.15:008][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.02.15:063][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-15.02.15:063][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-15.02.15:065][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-15.02.15:098][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-15.02.15:104][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.08.17-15.02.15:305][553]LogPlayLevel: Display: Destroying online subsystem :Context_154
+[2021.08.17-15.02.16:611][611]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-15.02.16:627][611]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-15.02.19:742][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.08.17-15.02.21:755][880]LogEditorViewport: Clicking on Actor (LMB): SimpleAI_C (SimpleAI3)
+[2021.08.17-15.02.23:141][951]Cmd: DELETE
+[2021.08.17-15.02.23:142][951]Cmd: ACTOR DELETE
+[2021.08.17-15.02.23:205][951]LogEditorActor: Deleted Actor: SimpleAI_C
+[2021.08.17-15.02.23:269][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2021.08.17-15.02.23:276][951]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2021.08.17-15.02.24:193][  2]LogEditorViewport: Clicking on Actor (LMB): SimpleAI_C (SimpleAI)
+[2021.08.17-15.02.25:706][ 81]Cmd: DELETE
+[2021.08.17-15.02.25:706][ 81]Cmd: ACTOR DELETE
+[2021.08.17-15.02.25:710][ 81]LogEditorActor: Deleted Actor: SimpleAI_C
+[2021.08.17-15.02.25:749][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.08.17-15.02.25:751][ 81]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.08.17-15.02.30:216][305]LogEditorViewport: Clicking on Actor (context menu): SimpleAI_C (SimpleAI2)
+[2021.08.17-15.02.59:909][515]Cmd: DELETE
+[2021.08.17-15.02.59:909][515]Cmd: ACTOR DELETE
+[2021.08.17-15.02.59:913][515]LogEditorActor: Deleted Actor: SimpleAI_C
+[2021.08.17-15.02.59:949][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.08.17-15.02.59:954][515]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.08.17-15.03.09:818][ 16]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-15.03.09:836][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-15.03.09:836][ 16]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 17:03:09)
+[2021.08.17-15.03.09:840][ 16]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-15.03.09:859][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019372s)
+[2021.08.17-15.03.09:861][ 16]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-15.03.09:861][ 16]LogPlayLevel: PIE: World Init took: (0.002175s)
+[2021.08.17-15.03.09:861][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021816s)
+[2021.08.17-15.03.09:902][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.17-15.03.09:905][ 16]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2021.08.17-15.03.09:905][ 16]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-15.03.09:905][ 16]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-15.03.09:905][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-15.03.09:905][ 16]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-15.03.09:905][ 16]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-15.03.09:905][ 16]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-15.03.09:905][ 16]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-15.03.09:905][ 16]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-15.03.09:906][ 16]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-15.03.09:906][ 16]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-15.03.09:919][ 16]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-15.03.09:919][ 16]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-15.03.09:940][ 16]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-15.03.09:941][ 16]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-15.03.09:941][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-15.03.09:941][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-15.03.09:941][ 16]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-15.03.09:941][ 16]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-15.03.09:941][ 16]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-15.03.09:963][ 16]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-15.03.09:963][ 16]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-15.03.09:963][ 16]LogInit: FAudioDevice initialized.
+[2021.08.17-15.03.09:963][ 16]LogAudio: Display: Audio Device (ID: 41) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-15.03.09:979][ 16]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-15.03.09:986][ 16]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-16.03.09
+[2021.08.17-15.03.09:993][ 16]LogWorld: Bringing up level for play took: 0.012886
+[2021.08.17-15.03.09:993][ 16]LogOnline: OSS: Creating online subsystem instance for: :Context_155
+[2021.08.17-15.03.09:999][ 16]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-15.03.10:000][ 16]PIE: Server logged in
+[2021.08.17-15.03.10:002][ 16]PIE: Play in editor total start time 0.172 seconds.
+[2021.08.17-15.03.13:264][200]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.13:264][200]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.13:354][205]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.13:356][205]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.13:356][205]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.13:373][206]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:373][206]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:424][209]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.13:456][211]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:456][211]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:456][211]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.13:457][211]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.13:457][211]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.13:477][212]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.13:545][216]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:545][216]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:546][216]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.13:564][217]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.13:564][217]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.13:584][218]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.13:631][221]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:632][221]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:633][221]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.13:635][221]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.13:670][223]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.13:670][223]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.13:688][224]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.13:725][226]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:725][226]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:745][227]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:745][227]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:745][227]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.13:789][229]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.13:790][229]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.13:810][230]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.13:826][231]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:826][231]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:827][231]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.13:903][235]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.13:903][235]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.13:925][236]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.13:941][237]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.13:942][237]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.13:942][237]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.14:138][247]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.03.14:250][253]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.14:250][253]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.14:253][253]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.14:253][253]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.14:254][253]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.03.14:345][258]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.14:345][258]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.03.14:346][258]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.03.14:366][259]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.03.14:458][264]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.03.15:678][329]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.03.15:678][329]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.03.15:680][329]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.15:681][329]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.15:701][330]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.03.15:769][334]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.15:769][334]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.15:769][334]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.15:769][334]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.03.15:769][334]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.03.15:770][334]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.15:771][334]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.15:789][335]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.03.15:875][340]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.15:875][340]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.15:876][340]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.15:876][340]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.03.15:876][340]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.03.15:878][340]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.15:895][341]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.03.15:993][346]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.15:993][346]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.15:993][346]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.03.15:994][346]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.03.16:013][347]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.03.16:014][347]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.16:106][352]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.16:106][352]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.16:127][353]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.16:165][355]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:220][358]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.16:220][358]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.16:221][358]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.16:221][358]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.16:239][359]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.16:335][364]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.16:335][364]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.16:336][364]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.16:336][364]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.16:336][364]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:357][365]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.16:450][370]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.16:450][370]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.16:451][370]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.16:451][370]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.16:452][370]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:469][371]LogBlueprintUserMessages: [SimpleAI_3] hit guy
+[2021.08.17-15.03.16:469][371]LogBlueprintUserMessages: [SimpleAI_3] Cannot See player
+[2021.08.17-15.03.16:470][371]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.16:558][376]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.16:558][376]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.03.16:559][376]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.16:559][376]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.16:560][376]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:579][377]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.03.16:595][378]LogBlueprintUserMessages: [SimpleAI_3] hit guy
+[2021.08.17-15.03.16:596][378]LogBlueprintUserMessages: [SimpleAI_3] Cannot See player
+[2021.08.17-15.03.16:596][378]LogBlueprintUserMessages: [SimpleAI_3] Can see player
+[2021.08.17-15.03.16:672][382]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.03.16:673][382]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.16:673][382]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.16:674][382]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:674][382]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:693][383]LogBlueprintUserMessages: [SimpleAI_3] hit guy
+[2021.08.17-15.03.16:693][383]LogBlueprintUserMessages: [SimpleAI_3] Cannot See player
+[2021.08.17-15.03.16:693][383]LogBlueprintUserMessages: [SimpleAI_3] Can see player
+[2021.08.17-15.03.16:765][387]LogBlueprintUserMessages: [SimpleAI_3] Can see player
+[2021.08.17-15.03.16:780][388]LogBlueprintUserMessages: [SimpleAI_3] hit guy
+[2021.08.17-15.03.16:780][388]LogBlueprintUserMessages: [SimpleAI_3] Cannot See player
+[2021.08.17-15.03.16:783][388]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.16:784][388]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.16:888][394]LogBlueprintUserMessages: [SimpleAI_3] hit guy
+[2021.08.17-15.03.16:889][394]LogBlueprintUserMessages: [SimpleAI_3] Cannot See player
+[2021.08.17-15.03.16:889][394]LogBlueprintUserMessages: [SimpleAI_3] Can see player
+[2021.08.17-15.03.16:890][394]LogBlueprintUserMessages: [SimpleAI4_9] hit guy
+[2021.08.17-15.03.16:890][394]LogBlueprintUserMessages: [SimpleAI4_9] Cannot See player
+[2021.08.17-15.03.16:890][394]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:946][397]LogBlueprintUserMessages: [SimpleAI4_9] Can see player
+[2021.08.17-15.03.16:987][399]LogBlueprintUserMessages: [SimpleAI_3] hit guy
+[2021.08.17-15.03.16:987][399]LogBlueprintUserMessages: [SimpleAI_3] Cannot See player
+[2021.08.17-15.03.16:988][399]LogBlueprintUserMessages: [SimpleAI_3] Can see player
+[2021.08.17-15.03.17:268][414]LogBlueprintUserMessages: [SimpleAI_3] Can see player
+[2021.08.17-15.03.18:304][473]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character
+	Weapon_Base_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Weapon_Base_C_0
+	Function /Game/ThirdPersonBP/Blueprints/Weapons/AK47/Weapon_Base.Weapon_Base_C:Reload:024C
+[2021.08.17-15.03.18:304][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsThird_Person_Character". Blueprint:  Weapon_Base Function:  Reload Graph:  Reload Node:  Return Node
+[2021.08.17-15.03.20:360][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-15.03.20:361][590]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-15.03.20:361][590]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.03.20:363][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.03.20:377][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-15.03.20:427][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.03.20:452][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.17-15.03.20:452][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-15.03.20:454][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-15.03.20:476][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-15.03.20:481][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.08.17-15.03.20:787][591]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2021.08.17-15.04.45:985][786]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-15.04.46:002][786]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-15.05.57:208][581]LogSlate: Window 'SimpleAI' being destroyed
+[2021.08.17-15.05.57:251][581]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.05.57:252][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.06.02:224][687]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character.Zombie_Character
+[2021.08.17-15.06.02:232][687]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_126:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-15.06.05:633][711]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton.Zombie_Character_Skeleton
+[2021.08.17-15.06.05:655][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_127:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-15.06.41:815][778]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Skeleton678BD7274040BA40DC98E0A9FD7ABB0A.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton.uasset'
+[2021.08.17-15.06.41:846][778]AssetCheck: New page: Asset Save: Zombie_Character_Skeleton
+[2021.08.17-15.06.41:846][778]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton.Zombie_Character_Skeleton
+[2021.08.17-15.06.43:646][831]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.06.43:646][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.06.44:896][852]LogSlate: Window 'Zombie_Character' being destroyed
+[2021.08.17-15.06.44:916][852]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.06.44:916][852]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.06.51:793][ 56]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-15.07.51:129][675]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-15.07.51:347][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.08.17-15.09.06:367][703]LogEditorTransaction: Undo Modify Component(s)
+[2021.08.17-15.09.14:565][935]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-15.09.14:821][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.08.17-15.09.15:607][945]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAI90E732174ADAE711EB53509A74642F8F.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-15.09.15:631][945]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-15.09.15:631][945]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-15.09.21:193][120]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character.Zombie_Character
+[2021.08.17-15.09.21:208][120]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_129:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-15.09.23:924][173]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton.Zombie_Character_Skeleton
+[2021.08.17-15.09.23:938][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_130:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.17-15.09.48:290][912]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character_Skeleton8477D33A4999920A069DF5AE94D1A782.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton.uasset'
+[2021.08.17-15.09.48:314][912]AssetCheck: New page: Asset Save: Zombie_Character_Skeleton
+[2021.08.17-15.09.48:314][912]LogContentValidation: Display: Validating Skeleton /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character_Skeleton.Zombie_Character_Skeleton
+[2021.08.17-15.09.48:849][928]LogWorld: UWorld::CleanupWorld for World_130, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.09.48:849][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.09.50:935][985]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Zombie_Character5380FFC446BB005A9ECE4E87F12072F2.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/Zombie/Zombie_Character.uasset'
+[2021.08.17-15.09.50:964][985]AssetCheck: New page: Asset Save: Zombie_Character
+[2021.08.17-15.09.50:964][985]LogContentValidation: Display: Validating SkeletalMesh /Game/ThirdPersonBP/Blueprints/Zombie/Zombie_Character.Zombie_Character
+[2021.08.17-15.09.51:407][999]LogWorld: UWorld::CleanupWorld for World_129, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.09.51:408][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.10.08:165][100]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-15.10.08:401][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.08.17-15.10.30:664][739]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-15.10.30:901][739]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2021.08.17-15.10.32:203][770]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAI3CE518274BFF9858CC83DBAF04D167BA.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-15.10.32:225][770]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-15.10.32:225][770]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-15.11.54:185][240]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-15.11.54:431][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.08.17-15.14.14:941][511]BlueprintLog: New page: Compile SimpleAI
+[2021.08.17-15.14.15:351][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.08.17-15.14.15:692][512]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/SimpleAIACD8924B45DD99650D01888D35905DB5.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Content/ThirdPersonBP/Blueprints/SimpleAI.uasset'
+[2021.08.17-15.14.15:715][512]AssetCheck: New page: Asset Save: SimpleAI
+[2021.08.17-15.14.15:715][512]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/SimpleAI.SimpleAI
+[2021.08.17-15.14.46:868][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.08.17-15.14.46:924][514]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto828F01F174E32860BBF4E8F968E5D828A.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2021.08.17-15.14.46:930][514]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.094
+[2021.08.17-15.14.46:930][514]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2021.08.17-15.15.02:388][732]LogTemp: Repeating last play command: Selected Viewport
+[2021.08.17-15.15.02:408][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.17-15.15.02:408][732]PIE: New page: PIE session: ThirdPersonExampleMap (17 Aug 2021, 17:15:02)
+[2021.08.17-15.15.02:408][732]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-15.15.02:429][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020537s)
+[2021.08.17-15.15.02:431][732]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.08.17-15.15.02:431][732]LogPlayLevel: PIE: World Init took: (0.002138s)
+[2021.08.17-15.15.02:431][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022914s)
+[2021.08.17-15.15.02:467][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.08.17-15.15.02:469][732]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2021.08.17-15.15.02:469][732]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.17-15.15.02:469][732]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.17-15.15.02:469][732]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.17-15.15.02:469][732]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.17-15.15.02:469][732]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.17-15.15.02:469][732]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.17-15.15.02:469][732]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.17-15.15.02:469][732]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.17-15.15.02:470][732]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.17-15.15.02:470][732]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.17-15.15.02:485][732]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.17-15.15.02:485][732]LogAudioMixer: Display: 1: FrontRight
+[2021.08.17-15.15.02:506][732]LogAudioMixer: Display: Using Audio Device SAMSUNG (NVIDIA High Definition Audio)
+[2021.08.17-15.15.02:506][732]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.17-15.15.02:506][732]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.17-15.15.02:507][732]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.17-15.15.02:507][732]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.17-15.15.02:507][732]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.17-15.15.02:507][732]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.17-15.15.02:508][732]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.17-15.15.02:508][732]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.17-15.15.02:508][732]LogInit: FAudioDevice initialized.
+[2021.08.17-15.15.02:509][732]LogAudio: Display: Audio Device (ID: 42) registered with world 'ThirdPersonExampleMap'.
+[2021.08.17-15.15.02:536][732]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.17-15.15.02:542][732]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.08.17-16.15.02
+[2021.08.17-15.15.02:544][732]LogWorld: Bringing up level for play took: 0.006069
+[2021.08.17-15.15.02:544][732]LogOnline: OSS: Creating online subsystem instance for: :Context_161
+[2021.08.17-15.15.02:551][732]PIE: Warning: The widget 'WBCrosshair_C' was already added to the screen.
+[2021.08.17-15.15.02:553][732]PIE: Server logged in
+[2021.08.17-15.15.02:554][732]PIE: Play in editor total start time 0.152 seconds.
+[2021.08.17-15.15.11:351][237]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.11:351][237]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.11:355][237]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.11:355][237]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.11:375][238]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.11:445][242]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.11:446][242]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.11:447][242]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.11:447][242]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.11:448][242]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.11:466][243]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.11:560][248]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.11:560][248]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.11:562][248]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.11:562][248]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.11:562][248]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.11:583][249]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.11:673][253]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.11:673][253]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.11:695][254]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.11:753][257]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.11:882][264]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.11:882][264]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.11:902][265]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.11:998][270]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.11:998][270]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.11:999][270]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.11:999][270]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.12:000][270]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.12:000][270]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.12:001][270]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.12:017][271]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.12:115][276]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.15.12:115][276]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.15.12:115][276]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.12:116][276]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.12:137][277]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.15.12:138][277]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.12:228][282]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.15.12:228][282]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.15.12:228][282]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.12:229][282]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.12:250][283]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.15.12:250][283]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.12:269][284]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.12:331][287]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.12:331][287]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.12:333][287]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.12:333][287]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.12:353][288]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.12:435][292]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.12:435][292]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.12:455][293]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.12:539][297]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.12:539][297]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.12:561][298]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.12:640][302]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.15.12:641][302]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.15.12:661][303]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.15.12:750][307]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.12:750][307]LogBlueprintUserMessages: [SimpleAI6_18] Cannot See player
+[2021.08.17-15.15.12:775][308]LogBlueprintUserMessages: [SimpleAI6_18] Can see player
+[2021.08.17-15.15.12:776][308]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.12:849][312]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.12:850][312]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.12:874][313]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.12:955][317]LogBlueprintUserMessages: [SimpleAI6_18] hit guy
+[2021.08.17-15.15.13:194][329]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.13:194][329]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.13:213][330]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.13:291][334]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.13:292][334]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.13:314][335]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.13:395][339]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.15.13:395][339]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.15.13:395][339]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.13:395][339]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.13:421][340]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.15.13:421][340]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.13:497][344]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.13:498][344]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.13:498][344]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.13:498][344]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.13:516][345]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.13:517][345]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.13:611][350]LogBlueprintUserMessages: [SimpleAI2_2] hit guy
+[2021.08.17-15.15.13:611][350]LogBlueprintUserMessages: [SimpleAI2_2] Cannot See player
+[2021.08.17-15.15.13:634][351]LogBlueprintUserMessages: [SimpleAI2_2] Can see player
+[2021.08.17-15.15.13:730][356]LogBlueprintUserMessages: [SimpleAI3_6] hit guy
+[2021.08.17-15.15.13:731][356]LogBlueprintUserMessages: [SimpleAI3_6] Cannot See player
+[2021.08.17-15.15.13:748][357]LogBlueprintUserMessages: [SimpleAI3_6] Can see player
+[2021.08.17-15.15.13:834][361]LogBlueprintUserMessages: [SimpleAI5_12] hit guy
+[2021.08.17-15.15.13:834][361]LogBlueprintUserMessages: [SimpleAI5_12] Cannot See player
+[2021.08.17-15.15.13:860][362]LogBlueprintUserMessages: [SimpleAI5_12] Can see player
+[2021.08.17-15.15.15:076][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-15.15.15:076][424]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.08.17-15.15.15:077][424]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.17-15.15.15:078][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.15.15:094][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.17-15.15.15:213][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.17-15.15.15:274][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.17-15.15.15:275][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-15.15.15:278][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.17-15.15.15:353][424]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2021.08.17-15.15.15:857][425]LogPlayLevel: Display: Destroying online subsystem :Context_161
+[2021.08.17-15.15.16:833][461]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-15.15.16:852][461]LogSlate: Window 'Message Log' being destroyed
