@@ -2874,3 +2874,13 @@ Make sure 'ThirdPersonCharacter' has been compiled for  Get SkeletalMesh1
 [2021.08.17-11.57.15:961][304]LogPlayLevel: Display: Destroying online subsystem :Context_75
 [2021.08.17-11.57.17:250][361]LogSlate: Window 'Message Log' being destroyed
 [2021.08.17-11.57.17:266][361]LogSlate: Window 'Message Log' being destroyed
+[2021.08.17-11.58.07:224][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.08.17-11.58.07:271][324]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/ThirdPersonExampleMap_Auto803E91BBC41B8CB500BD4439704F9A84C.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2021.08.17-11.58.07:275][324]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.074
+[2021.08.17-11.58.07:275][324]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2021.08.17-11.58.07:275][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon] ([2] browsable assets)...
+[2021.08.17-11.58.07:288][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon]
+[2021.08.17-11.58.07:301][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon.M4A1_Weapon]
+[2021.08.17-11.58.07:301][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon]
+[2021.08.17-11.58.07:346][324]LogSavePackage: Moving '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/M4A1_Weapon_Auto8C9095A5D490FABE8121FF7AC681384A3.tmp' to '../../../../../../Users/james/OneDrive/Documents/unreal Dev/Youtube Tutorials/FPS Tutorial/FirstPersonShooter/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Weapons/M4A1/M4A1_Weapon_Auto8.uasset'
+[2021.08.17-11.58.07:347][324]LogFileHelpers: Auto-saving content packages took 0.072
